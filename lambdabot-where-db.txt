@@ -1,0 +1,2340 @@
+!
+
+"
+?? (?quote) \ (?quote)
+"abstract
+
+"implementing
+Lazy Functional Languages on Stock Hardware: The Spineless Tagless G-machine", Simon Peyton Jones: http://research.microsoft.com/apps/pubs/default.aspx?id=67083
+"parallel
+and Concurrent Programming in Haskell 1.1" http://community.haskell.org/~simonmar/par-tutorial.pdf
+#esoteric
+Right here, silly!
+#haskell
+Right here, silly!
+(->)
+
+-xc
+http://www.haskell.org/ghc/docs/latest/html/users_guide/runtime-control.html#rts-options-debugging
+/me
+/me is a command
+10minutes
+http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes
+21-days
+"Teach Yourself Programming .." by Peter Norvig at <https://www.norvig.com/21-days.html>
+99
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
+<http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/>,<http://math.andrej.com/2008/11/21/a-haskell-monad-for-infinite-search-in-finite-time/>
+
+?
+Some useful @where queries: ? paste cabalstackhelp
+?where
+
+@where
+
+\cats
+http://arcanux.org/lambdacats.html
+_|_
+http://www.haskell.org/haskellwiki/Bottom
+aaaa
+� � � � test
+aam
+http://www.haskell.org/haskellwiki/All_About_Monads
+acc
+"Abstract and Concrete Categories (The Joy of Cats)", J. Adámek, H. Herrlich, G. E. Strecker: http://katmat.math.uni-bremen.de/acc/
+ack
+http://petdance.com/ack/
+adaptive
+"Adaptive Functional Programming" by Umut Acar,Blelloch,Harper in 2002 (POPL) at <http://www.umut-acar.org/publications/popl2002.pdf> and in 2006 (TOPLAS) at <http://www.umut-acar.org/publications/toplas2006.pdf>
+adminlog
+https://phabricator.haskell.org/w/projects/haskell.org_infrastructure/server_admin_log/
+ag
+http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem
+agda
+Agda2, proof assistant / dependently typed FPL, at <http://wiki.portal.chalmers.se/agda/> -- Agda1, earlier incarnation, at (broken) <http://www.cse.chalmers.se/~catarina/agda/>,<http://web.archive.org/web/*/http://www.cs.chalmers.se/~catarina/agda/>. Also see `Alfa',`Cayenne'
+agdabot
+http://patch-tag.com/r/stepcut/agdabot
+agdapaste
+http://agda.xelpaste.org/
+agdatut
+http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf
+agmatters
+http://www.haskell.org/haskellwiki/The_Monad.Reader/Issue4/Why_Attribute_Grammars_Matter
+ahoh
+http://research.microsoft.com/~simonpj/papers/history-of-haskell/index.htm
+ai-koans
+"Some AI Koans" by Danny Hillis at <http://www.catb.org/~esr/jargon/html/koans.html> (in The Jargon File). Also <https://www.netfunny.com/rhf/jokes/89q1/koans.285.html>
+aima
+"Artificial Intelligence: A Modern Approach" by Stuart Russell,Peter Norvig in 1995,2003,2009-12-11 at <http://aima.cs.berkeley.edu/>,<https://people.eecs.berkeley.edu/~russell/aima1e.html> (1st ed.)
+ais523test
+`indirecho lambdabot: @where ais523test
+alar
+http://nealar.livejournal.com/
+alex
+http://www.haskell.org/alex/
+alfa
+Proof editor, using Agda1 proof engine/checker, at <http://www.cse.chalmers.se/~hallgren/Alfa/>,(broken) <http://www.cs.chalmers.se/~hallgren/untested>,<http://ogi.altocumulus.org/~hallgren/untested>,<http://ogi.altocumulus.org/~hallgren/untested/for_Linux/alfa-041029-bin-i386-Linux-RedHat9.tar.gz>,<http://ogi.altocumulus.org/~hallgren/untested/Source_code/alfa-050126.src.tar.gz>. Also see `Agda',`Fudgets',`GF'
+algebraic-blindness
+https://github.com/quchen/articles/blob/master/algebraic-blindness.md
+amalthea
+Implementation made by Martin Sandin of the (continuation-based) `Io' language at <http://web.archive.org/web/20091106041222/http://www.guldheden.com/~sandin/amalthea.html>
+anagol
+http://golf.shinh.org/
+anglohaskell
+http://haskell.org/haskellwiki/AngloHaskell
+anotherquine
+@where anotherQuine
+answer
+The answer is GADTs!
+antipattern
+http://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/
+antipatterns
+See `existential-antipattern' and `incremental-parameter-antipattern'. Cf. `blindnesses'
+any
+http://www.vex.net/~trebla/weblog/any-all-some.html
+anyone
+See #debian !anyone entry for dpkg
+anything
+I know nothing about anything.
+aop
+"Algebra of Programming" by Richard Bird,Oege de Moor in 1996 at <https://www.cs.ox.ac.uk/publications/books/algebra/>,<http://lambda-the-ultimate.org/node/1117>,<http://wiki.c2.com/?AlgebraOfProgramming>,<https://www.goodreads.com/book/show/2727190-algebra-of-programming>,&c.
+aosa
+The Architecture of Open Source Applications <http://aosabook.org/>
+apld
+"Advanced Programming Language Design" by Raphael Finkel in 1996 at <http://www.nondot.org/sabre/Mirrored/AdvProgLangDesign/>
+applicative
+http://darcs.haskell.org/packages/base/Control/Applicative.hs
+applicative-vs-monadic
+"Applicative vs Monadic build systems" by ndm in 2014-07-23 at <https://neilmitchell.blogspot.se/2014/07/applicative-vs-monadic-build-systems.html>. (cf. "static sequencing" vs. "dynamic sequencing")
+applicativeparsec
+http://www.serpentine.com/blog/2008/02/06/the-basics-of-applicative-functors-put-to-practical-work/ and http://book.realworldhaskell.org/read/using-parsec.html#id652399
+aprove
+http://aprove.informatik.rwth-aachen.de/
+aqtest
+http://www.piepalace.ca/blog/asperger-test-aq-test/
+arch-ld-bug
+https://bugs.archlinux.org/task/54561
+are-you
+AI'M IN UR #HAKSELL SERVIN UR DOODZ
+ari
+
+arrows
+http://www.haskell.org/arrows/
+ask
+Don't ask to ask, just ask.
+asperger
+http://www.piepalace.ca/blog/asperger-test-aq-test/
+astrolabe
+http://www.mhs.ox.ac.uk/epact/picturel.asp?record=95&enumber=40428&level=overview&sort=InstrumentTypeWithoutMarkup&searchtext=
+ats
+http://hackage.haskell.org/trac/haskell-prime/wiki/AssociatedTypes
+attapl
+"Advanced Topics in Types and Programming Languages" edited by Benjamin C. Pierce in 2004-12-23 at <https://www.cis.upenn.edu/~bcpierce/attapl/>
+attribute
+grammars matter http://www.haskell.org/tmrwiki/WhyAttributeGrammarsMatter
+aushack
+http://www.haskell.org/haskellwiki/AusHac2010
+autrijus
+http://use.perl.org/~autrijus/journal/
+awesome
+http://awesome.naquadah.org/
+awodey
+http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/Awodey.pdf
+backus
+"Can Programming Be Liberated from the von Neumann Style?: A Functional Style and Its Algebra of Programs" (Turing Award lecture) by John Warner Backus in 1977-10-17 at <https://amturing.acm.org/award_winners/backus_0703524.cfm>,<http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf>
+bahaskell
+http://groups.google.com/group/bahaskell
+bark
+http://urchin.earth.li/darcs/ian/bts/
+base
+http://darcs.haskell.org/packages/base/
+beginners
+http://haskell.org/mailman/listinfo/beginners
+being.lazy.with.class
+http://research.microsoft.com/en-us/um/people/simonpj/Papers/history-of-haskell/history.pdf
+bf
+http://en.wikipedia.org/wiki/Brainfuck
+binary
+http://www.cse.unsw.edu.au/~dons/binary.html
+bing
+?where bing
+bird
+http://www.amazon.com/Introduction-Functional-Programming-Haskell-Edition/dp/0134843460
+bitsyntax
+http://www.imperialviolet.org/binary/bitsyntax/
+black
+http://pllab.is.ocha.ac.jp/~asai/papers/papers.html
+blag
+Riastradh's (Taylor R. Campbell's) blag <http://mumble.net/~campbell/blag.txt>, RSS <http://www.ccil.org/~cowan/blag.xml>
+blame
+"Well-typed programs can't be blamed" at <http://homepages.inf.ed.ac.uk/wadler/topics/blame.html#blame-esop> by Philip Wadler,Robert Bruce Findler in 2009
+blazehtml
+http://github.com/jaspervdj/BlazeHtml
+blindnesses
+See `boolean-blindness' and `algebraic-blindness'
+blobs
+http://haskell.org/Blobs
+bnfc
+BNF Converter, http://bnfc.digitalgrammars.com/
+boegel
+http://kejo.be/ELIS/haskell-blahSouthPark.html
+bogus_people
+ion Twey
+boo
+
+book
+http://haskellbook.com/
+book-acronyms
+mbishop's "List of popular programming book acronyms" at <http://web.archive.org/web/20080918051833/http://mbishop.esoteriq.org/stuff/books.txt>
+books
+See `LYAH',`RWH',`YAHT',`SOE',`HR',`PIH',`wikibook',`PCPH',`HPFFP',`HTAC',`TwT',`FoP',`PFAD',`WYAH',`non-haskell-books'
+boolean-blindness
+http://existentialtype.wordpress.com/2011/03/15/boolean-blindness/
+botdeath
+
+botlife
+
+brutal
+http://book.realworldhaskell.org/
+buddha
+http://www.cs.mu.oz.au/~bjpop/buddha/
+bug
+?where haskell
+bugs
+http://hackage.haskell.org/trac/ghc/wiki/ReportABug
+burrito
+http://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/
+burritos
+http://emorehouse.web.wesleyan.edu/silliness/burrito_monads.pdf
+bytestring
+http://www.cse.unsw.edu.au/~dons/fps.html
+bytestringparser
+http://hackage.haskell.org/~paolo/darcs/ByteStringParser
+bzlib
+http://code.haskell.org/bzlib/
+c--
+www.cminusminus.org
+c-dct
+http://blog.bjrn.se/2008/09/speeding-up-haskell-with-c-very-short.html
+c.h.o_admins
+igloo, dcoutts or yitz
+c/c++
+"C/C++ : A new language for the new Millennium" by Richard Heathfield in 2005-02 at <http://web.archive.org/web/20090421080714/http://www.cpax.org.uk/prg/portable/c/c++/rfe00000.html>
+c2hs
+http://www.cse.unsw.edu.au/~chak/haskell/c2hs/
+cabal
+http://www.haskell.org/cabal
+cabal-and-stack
+https://www.reddit.com/r/haskell/comments/egc8d0/a_few_haskell_highlights_of_2019/fcjr4tv/
+cabal-cabal
+http://www.vex.net/~trebla/haskell/cabal-cabal.xhtml
+cabal-faq
+http://haskell.org/haskellwiki/Cabal/FAQ
+cabal-get
+cabal-get is now cabal-install, and is in Cabal's source tree
+cabal-hell
+"Cabal hell and how to escape from it" by sm at <http://hub.darcs.net/simon/cabal-install-tutorial/browse/draft1.md#cabal-hell-and-how-to-escape-from-it-cabal-hell>
+cabal-install
+http://hackage.haskell.org/trac/hackage/wiki/CabalInstall
+cabal-plan
+https://hackage.haskell.org/package/cabal-plan
+cabal-test
+http://darcs.haskell.org/~lemmih/cabal-test
+cabalstackhelp
+Help us help you: at https://gist.github.com, https://hastebin.com or https://termbin.com please paste your failing command, the full output, and your .cabal, package.yaml and/or stack.yaml files
+cairo
+http://haskell.org/gtk2hs/
+calcfp
+http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/acmmpc-calcfp.pdf
+calewiki
+http://cale.yi.org/index.php/Main_Page
+camp
+http://projects.haskell.org/camp/
+can
+Yes, it can!
+catch
+http://community.haskell.org/~ndm/catch/
+caths
+http://www.cse.unsw.edu.au/~dons/code/caths/
+cats
+http://tinyurl.com/lambdacats
+catsters
+http://www.youtube.com/user/TheCatsters
+cayenne
+Dependently typed FPL with turing-complete type system, by Lennart Augustsson (augustss), at (broken) <http://www.cs.chalmers.se/~hallgren/Alfa/Tutorial/GFplugin.html>, <http://web.archive.org/web/*/www.cs.chalmers.se/~augustss/cayenne/index.html>. Also see `Agda'
+cflags
+gcc -std=gnu99 -pedantic -Wall -W -Wno-missing-field-initializers -Wundef -Wendif-labels -Wshadow -Wbad-function-cast -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Winline -Wdisabled-optimization -O2
+chakravarty
+http://www.cse.unsw.edu.au/~chak/
+characterizing
+http://alistair.cockburn.us/Characterizing+people+as+non-linear,+first-order+components+in+software+development
+charity
+http://pll.cpsc.ucalgary.ca/charity1/www/home.html
+chasingbottoms
+http://www.cse.unsw.edu.au/~dons/code/streams/ChasingBottoms/
+cheatsheet
+http://blog.codeslower.com/static/CheatSheet.pdf
+chp
+http://www.cs.kent.ac.uk/projects/ofa/chp/
+chr
+Constraint Handling Rules at <http://www.cs.kuleuven.be/~dtai/projects/CHR/>
+chunks
+unfoldr (\x -> if null x then Nothing else Just (splitAt n x))
+cis194
+https://www.seas.upenn.edu/~cis194/spring13/lectures.html
+cobol-install
+"Storage and Identification of COBOLized Packages" at <http://www.vex.net/~trebla/haskell/siCp.xhtml>
+codepad
+http://codepad.org
+coffee
+I drank it all
+cofp
+http://www.cs.kent.ac.uk/people/staff/sjt/craft2e/
+coin
+@@ @run const coingurkenglas @show @let coingurkenglas = coingurkenglas + (if (@run (!!1) $ words @show @dice 1d5) >= 3 then 1 else -1) *
+commands
+http://users.ece.cmu.edu/~allbery/lambdabot/COMMANDS
+commentary
+https://ghc.haskell.org/trac/ghc/wiki/Commentary
+commit
+Please read and abide by this: http://code.google.com/p/ai-contest/wiki/HowToContribute. Never commit to trunk. Always use branches, as described.
+communities
+http://www.haskell.org/haskellwiki/Haskell_Communities_and_Activities_Report
+comonad
+http://hackage.haskell.org/packages/archive/comonad/latest/doc/html/Control-Comonad.html | http://comonad.com/
+comp.lang.functional
+http://groups.google.com/group/comp.lang.functional/about?hl=e
+compactstring
+http://twan.home.fmf.nl/compact-string/
+compos
+"A pattern for almost compositional functions" by Björn Bringert,Aarne Ranta in 2008 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.233.3357>
+composable-continuations
+<http://community.schemewiki.org/?composable-continuations-tutorial>
+compose
+http://mainisusuallyafunction.blogspot.de/2010/10/typing-mathematical-characters-in-x.html
+conal
+http://conal.net
+concpar
+http://community.haskell.org/~simonmar/slides/cadarache2012/
+configurations
+http://okmij.org/ftp/Haskell/dependent-types.html#Prepose
+conjure
+http://darcs.haskell.org/~lemmih/conjure/
+conjure-alt
+http://darcs.haskell.org/~lemmih/conjure
+containers
+http://sneezy.cs.nott.ac.uk/containers/
+copumpkin
+Yo pumpkin, I heard you like proofs
+coq
+http://coq.inria.fr/
+counter
+2
+courses
+See `CIS194',`NICTA'/`Data61'
+cpdt
+"Certified Programming with Dependent Types" by Adam Chlipala (aka Smerdyakov) (in progress) at <http://adam.chlipala.net/cpdt/>, "about practical engineering with the Coq proof assistant"
+cpphs
+http://www.cs.york.ac.uk/fp/cpphs/
+cpr
+http://research.microsoft.com/en-us/um/people/simonpj/Papers/cpr/index.htm
+creal
+http://darcs.augustsson.net/Darcs/CReal/CReal.hs and http://darcs.augustsson.net/Darcs/CReal/CRealI.hs
+criterion
+http://www.serpentine.com/blog/2009/09/29/criterion-a-new-benchmarking-library-for-haskell/
+crosscompilation
+https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling
+crosscompiling
+https://ghc.haskell.org/trac/ghc/wiki/Building/CrossCompiling
+crossroad
+http://www.vex.net/~trebla/haskell/crossroad.xhtml
+crypto
+http://www.haskell.org/crypto
+cs11
+http://web.archive.org/web/20100328151143/http://www.cs.caltech.edu/courses/cs11/material/haskell/index.html
+cse
+http://www.haskell.org/haskellwiki/GHC:FAQ#Does_GHC_do_common_subexpression_elimination.3F
+ctfp
+"Category Theory for Programmers" by Bartosz Milewski in 2018-10-21 at <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>,<https://github.com/hmemcpy/milewski-ctfp-pdf>
+ctk
+http://www.cse.unsw.edu.auc/~chak/haskell/ctk/index.html
+ctm
+"Concepts, Techniques, and Models of Computer Programming", by Peter Van Roy,Seif Haridi, at <http://www.info.ucl.ac.be/~pvr/book.html>
+cufp
+www.galois.com/cufp
+curry
+http://www.informatik.uni-kiel.de/~mh/curry/
+cvs-ghc
+http://www.haskell.org/pipermail/cvs-ghc/
+darcs
+#darcs | http://darcs.net/
+darcs-ghc
+darcs get http://cvs.haskell.org/darcs/ghc
+darcs-graph
+http://www.cse.unsw.edu.au/~dons/darcs-graph.html
+darcs-libs
+darcs get http://cvs.haskell.org/darcs/libraries
+darcs-logs
+http://www.cse.unsw.edu.au/~dons/irc/darcs/
+darcs-paste
+http://paste.lisp.org/new/darcs
+darcs-server
+http://www.equational.org/darcs-server
+darcsden
+http://darcsden.com/
+darcsdeps
+http://wiki.darcs.net/index.html/DarcsDeps
+darcssim
+http://codersbase.com/index.php/DarcsSim
+darcswatch
+http://darcswatch.nomeata.de/
+darcsweb
+http://users.auriga.wearlab.de/~alb/darcsweb/
+data.list.split
+http://hackage.haskell.org/packages/archive/split/latest/doc/html/Data-List-Split.html
+data.monoid.ap
+
+data61
+Data61 Functional Programming Course <https://github.com/data61/fp-course>,<https://qfpl.io/links/2017-october-fp-course/> by Tony Morris,Mark Hibberd. Also see the channel #qfpl
+ddc
+The Disciplined Disciple Compiler at <http://disciple.ouroborus.net/>
+debian-haskell
+http://urchin.earth.li/mailman/listinfo/debian-haskell
+debugger
+http://donsbot.wordpress.com/2007/11/14/no-more-exceptions-debugging-haskell-code-with-ghci/
+decide
+I know nothing about decide.
+decoratingstructures
+<http://web.archive.org/web/20051126143527/http://haskell.org/hawiki/DecoratingStructures>
+dedot
+@unpl @run text . (let { f ('d':'o':'t':xs) = "(.)"++f xs; f (x:xs) = x:f xs; f "" = "" } in f) $ @show
+defaulting
+https://www.haskell.org/onlinereport/haskell2010/haskellch4.html#x10-790004.3.4 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/interactive-evaluation.html#extended-default-rules
+derive
+http://www.cs.york.ac.uk/fp/darcs/derive
+devtodo
+http://swapoff.org/wiki/DevTodo
+diagrams
+http://projects.haskell.org/diagrams/
+diet
+http://web.engr.oregonstate.edu/~erwig/diet/
+djinn
+darcs get http://darcs.augustsson.net/Darcs/Djinn
+dlist
+http://h2.jaguarpaw.co.uk/posts/demystifying-dlist/
+dmr
+http://www.haskell.org/haskellwiki/Monomorphism_restriction
+do
+The rules of do notation: http://www.haskell.org/onlinereport/haskell2010/haskellch3.html#x8-480003.14 (Note that "do { v <- m; ... }" is the same as "m >>= \v -> do { ... }" when v is a variable, rather than a more complex pattern.)
+do-notation
+http://book.realworldhaskell.org/read/monads.html#monads.do
+doesn't
+What do you mean by "doesn't work"? it's unemployed? compile error? no effect? random effect? rocks fall, everyone dies?
+doha
+Qatar
+don-quixote-theorem
+Furthermore, I'm challenging my solution's alleged ineffectiveness with the sufficient smart compiler conjecture.
+dons
+http://donsbot.wordpress.com
+down
+http://downforeveryoneorjustme.com/
+dph
+http://haskell.org/haskellwiki/GHC/Data_Parallel_Haskell
+dreddit
+darcs.reddit.com
+drhaskell
+http://www.cs.york.ac.uk/fp/darcs/drhaskell/
+drift
+http://repetae.net/john/computer/haskell/DrIFT/
+dropfromend
+see `sneaky'
+dwm
+http://dwm.suckless.org/
+dynamic
+http://www.haskell.org/haskellwiki/FAQ#How_do_I_make_a_list_with_elements_of_different_types.3F
+dzen
+http://gotmor.googlepages.com/dzen
+dzen-wiki
+http://dzen.geekmode.org/dwiki/doku.php
+e_10
+[show(sum$scanl div(100^n)[1..[4..]!!n])!!n|n<-[0..]]
+eden
+"Eden: Parallel Functional Programming with Haskell" <http://www.mathematik.uni-marburg.de/~eden/>
+edison
+http://www.cs.princeton.edu/~rdockins/edison/home/
+edwardk
+http://comonad.com/reader/
+egobot
+`welcome
+eightfold
+http://dev.stephendiehl.com/hask/#eightfold-path-to-monad-satori
+elliott
+I know nothing about elliott.
+elm
+"Beginning Elm: a gentle introduction to Elm programming language" <http://elmprogramming.com/>
+emacs
+http://haskell.org/haskellwiki/Haskell_mode_for_Emacs
+enlightenment
+http://ifdb.tads.org/viewgame?id=fn8r65rg7upfff0o
+eopl
+Essentials of Programming Languages by Friedman, Wand and Haynes in 2001 <https://www.cs.indiana.edu/eopl/>
+epigram
+http://www.e-pig.org/
+epigram2
+http://sneezy.cs.nott.ac.uk/darcs/epigram/
+eqproof
+"Equality proofs in Cayenne" by Lennart Augustsson in 1998 or 1999 at <http://web.archive.org/web/20100103222945/http://www.cs.chalmers.se/~augustss/cayenne/eqproof.ps>
+erikpoll
+"Subtyping and Inheritance for Inductive Types" in 1997 at <http://www.cs.ru.nl/E.Poll/papers/durham97.pdf>,"Subtyping and Inheritance for Categorical Datatypes" in 1997 at <http://www.cs.ru.nl/E.Poll/papers/kyoto97.pdf>,"A Coalgebraic Semantics of Subtyping" in 2000 at <http://www.cs.ru.nl/E.Poll/papers/cmcs00.pdf>,later version of that in 2001 at <http://www.cs.ru.nl/E.Poll/papers/ita01.pdf>
+eros
+http://conal.net/papers/Eros
+error
+http://www.randomhacks.net/articles/2007/03/10/haskell-8-ways-to-report-errors
+esc
+http://www.cl.cam.ac.uk/~nx200/
+essencefp
+http://homepages.inf.ed.ac.uk/wadler/papers/essence/essence.ps
+eternalflame
+"The Eternal Flame" ("God Wrote in LISP Code"), lyrics by Bob Kanefsky, performed by Julia Ecklar, in 1996-07-29 at <http://www.prometheus-music.com/audio/eternalflame.mp3>,<http://www.songworm.com/lyrics/songworm-parody/EternalFlame.html>,<http://www.songworm.com/db/songworm-parody/EternalFlame.html>,<http://www.prometheus-music.com/roundworm.html>
+euler
+http://projecteuler.net
+eval
+eval=let e s@(_:'\\':v:'.':l)=let(x,')':t)=e$d l in(take 4 s++x++")",t);e('(':s)=let(x,t)=e s;(y,')':u)=e$d t in(a x y,u);e s=splitAt 1$d s;d=snd.span(==' ');a(_:'\\':v:_:l)s=let f x|x==v=s|1>0=[x]in fst.e$init l>>=f;a f x='(':f++" "++x++")"in e
+eval-apply
+http://research.microsoft.com/en-us/um/people/simonpj/papers/eval-apply/index.htm
+everything
+I know nothing about everything.
+everything-is-a-function
+http://conal.net/blog/posts/everything-is-a-function-in-haskell
+everything-is-not-a-function
+http://conal.net/blog/posts/everything-is-a-function-in-haskell
+evolution
+http://www.willamette.edu/~fruehr/haskell/evolution.html
+ewmh
+http://standards.freedesktop.org/wm-spec/wm-spec-1.3.html
+ewmhdesktops
+http://haskell.org/haskellwiki/Xmonad/Notable_changes_since_0.8#EwmhDesktops_0.9_config_updates
+examples
+ghc, pugs, darcs, xmonad, lambdabot, yi, frag, house, hpaste (use @where+ to add more)
+exception
+http://community.haskell.org/~simonmar/papers/ext-exceptions.pdf
+exceptions
+http://community.haskell.org/~simonmar/papers/ext-exceptions.pdf
+exercises
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems https://github.com/bitemyapp/learnhaskell http://www.reddit.com/r/dailyprogrammer/ http://www.reddit.com/r/programmingchallenges/
+exference
+Djinn on steroids: recursive types, typeclasses, etc. https://github.com/lspitzner/exference or in #haskell: :exf "Monad m => m (m a) -> m a"
+exi
+http://www.iai.uni-bonn.de/~loeh/exi/
+existential-antipattern
+"Haskell Antipattern: Existential Typeclass" by Luke Palmer at <http://lukepalmer.wordpress.com/2010/01/24/haskell-antipattern-existential-typeclass/>
+export
+https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2
+exporting
+https://www.haskell.org/onlinereport/haskell2010/haskellch5.html#x11-1000005.2
+expr
+http://twan.home.fmf.nl/blog/haskell/simple-reflection-of-expressions.details
+expressive-power
+"On the Expressive Power of Programming Languages" by Matthias Felleisen in 1990 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4656>
+f#
+http://research.microsoft.com/fsharp/fsharp.aspx
+fad
+http://www.cs.kent.ac.uk/pubs/2001/1152/
+fairbairn
+https://mail.haskell.org/pipermail/libraries/2012-February/017548.html
+falso
+http://www.inutile.ens.fr/estatis/falso/
+faq
+http://www.haskell.org/haskellwiki/FAQ
+faq'
+The answer is: Yes! Lens can do that.
+faq-lens
+https://github.com/ekmett/lens/wiki/FAQ
+fast-and-loose
+"Fast and Loose Reasoning is Morally Correct" by Nils Anders Danielsson,John Hughes,Patrik Jansson,Jeremy Gibbons in 2006 at <http://www.cse.chalmers.se/~nad/publications/danielsson-et-al-popl2006.html>
+fast-curry
+http://research.microsoft.com/en-us/um/people/simonpj/papers/eval-apply/index.htm
+fastcgi
+http://www.cs.chalmers.se/~bringert/darcs/haskell-fastcgi/doc/
+fc
+http://www.cse.unsw.edu.au/~chak/project/fc/
+ferus
+"Ferus is currently sucking my dick. Try again later."
+ffi
+http://www.haskell.org/onlinereport/haskell2010/haskellch8.html
+ffi-dct
+http://blog.bjrn.se/2008/09/speeding-up-haskell-with-c-very-short.html
+fgl
+http://www.cs.orst.edu/~erwig/fgl/
+fib
+fix$scanl(+)0.(1:)
+filepath
+http://www-users.cs.york.ac.uk/~ndm/filepath/
+fita
+http://sneezy.cs.nott.ac.uk/fun/
+fizzie
+I know nothing about fizzie.
+flags
+http://www.haskell.org/ghc/docs/latest/html/users_guide/flag-reference.html
+flip-plus
+https://raw.githubusercontent.com/mxswd/flip-plus/master/Control/FlipPlus.hs
+flippi
+http://www.flippac.org/projects/flippi/
+floating-point
+"What Every Programmer Should Know About Floating-Point Arithmetic" at <http://floating-point-gui.de/> and "What Every Computer Scientist Should Know About Floating-Point Arithmetic" by David Goldberg in 1991 at <http://docs.sun.com/source/806-3568/ncg_goldberg.html> and <http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.102.244>
+fold-diagrams
+http://cale.yi.org/index.php/Fold_Diagrams
+fold.diagrams
+http://cale.yi.org/index.php/Fold_Diagrams
+fold_diagrams
+http://cale.yi.org/index.php/Fold_Diagrams
+foldrtut
+http://ertes.eu/tutorial/foldr.html
+folds
+<http://en.wikipedia.org/wiki/File:Fold-diagrams.svg>,<https://cale.l5.ca/share/Folds.svg>
+foo
+blah
+fop
+"The Fun of Programming" edited by Jeremy Gibbons,Oege de Moor in 2003-03-27 at <https://www.cs.ox.ac.uk/publications/books/fop/>
+fp-koans
+"Functional Programming Koans, in OCaml" by Doug Bagley in 2002 - 2003-02-03 at <http://web.archive.org/web/20041012103936/http://www.bagley.org/~doug/ocaml/Notes/okoans.shtml>. Cf. "Functional Koans: a dynamic programmer responds" by pozorvlak in 2006-05-15 at <https://pozorvlak.livejournal.com/15822.html>
+fpad
+I know nothing about FPAD.
+fplunch
+https://fplab.bitbucket.io/posts.html
+fps
+http://www.cse.unsw.edu.au/~dons/fps.html
+fps-parsec
+http://hackage.haskell.org/~paolo/darcs/ByteStringParser
+fptools
+http://www.haskell.org/ghc/docs/latest/html/building/sec-cvs.html
+frag
+http://www.haskell.org/haskellwiki/Frag
+free
+http://andrew.bromage.org/darcs/freetheorems
+free-monoids
+"Free Monoids in Haskell" by Dan Doel in 2015-02-21 at <http://comonad.com/reader/2015/free-monoids-in-haskell/>
+frisby
+http://repetae.net/computer/frisby/
+frp
+<http://conal.net/fran/>,<http://conal.net/papers/push-pull-frp/>,<https://stackoverflow.com/questions/5875929/specification-for-a-functional-reactive-programming-language#5878525>
+fruit
+http://haskell.org/fruit/
+fsaf
+Finding Success And Failure by Julie Moronukie/Chris Martin, 2019, $25 - https://joyofhaskell.com
+fsvo
+for some values of
+fudgets
+GUI using X, by Thomas Hallgren and Magnus Carlsson, at <http://www.altocumulus.org/Fudgets/>,<http://www.carlssonia.org/ogi/ProdArrows/>. Also see `Alfa'
+function
+http://conal.net/blog/posts/everything-is-a-function-in-haskell
+functionaljava
+http://functionaljava.org/
+fundep
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/type-class-extensions.html#functional-dependencies
+funlist
+twanvl's "A non-regular data type challenge" at <http://twan.home.fmf.nl/blog/haskell/non-regular1.details> and "http://twan.home.fmf.nl/blog/haskell/non-regular2.details" at <http://twan.home.fmf.nl/blog/haskell/non-regular2.details>
+gadt
+http://www.haskell.org/ghc/docs/latest/html/users_guide/data-type-extensions.html#gadt
+game
+#haskell-game | http://www.haskell.org/haskellwiki/Game_Development | http://hackage.haskell.org/packages/archive/pkg-list.html#cat:game | https://github.com/haskell-game
+ganymede
+Implementation by BMeph of the (continuation-based) `Io' language at <http://hackage.haskell.org/package/Ganymede>
+gateless-gate
+"The Gateless Gate/Barrier" by Ekai (called Mumon / Wumen Huikai) in early 1200s century at <http://www.ibiblio.org/zen/cgi-bin/koan-index.pl>
+geheimdienst
+I cannot deny or confirm anything about a geheimdienst.
+generic
+I know nothing about generic.
+generichaskell
+<http://www.cs.uu.nl/research/projects/generic-haskell/>,<https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#generic-classes>,<https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#generic-programming>
+generics
+`SYB',`Compos',`uniplate',`multiplate',`Plated',`Stratego',`Strafunski',`recursion-schemes',`polytypic',`GenericHaskell',<https://www.haskell.org/haskellwiki/Research_papers/Generics>,<https://www.haskell.org/haskellwiki/Applications_and_libraries/Generic_programming>
+gentle
+http://www.haskell.org/tutorial/
+gentoo
+#gentoo-haskell
+geordi
+http://www.xs4all.nl/~weegen/eelis/geordi/
+gf
+Grammatical Framework, dependently typed FPL, categorial grammar formalism, supporting multilingual grammar applications for e.g. natural language processing, at <http://www.grammaticalframework.org/>. (An old `Alfa' interface is at <http://web.archive.org/web/*/http://www.cs.chalmers.se/~hallgren/Alfa/Tutorial/GFplugin.html>)
+ghc
+http://haskell.org/ghc
+ghc-api
+http://www.haskell.org/ghc/
+ghc-bugs
+http://www.haskell.org/ghc/reportabug
+ghc-src
+http://scannedinavian.org/~lemmih/ghc-src
+ghcformac
+http://ghcformacosx.github.io/
+ghci-on-acid
+http://www.cse.unsw.edu.au/~dons/code/goa/
+ghci.debugger
+http://haskell.org/haskellwiki/Ghci/Debugger
+ghcide-emacs
+https://www.reddit.com/r/haskell/comments/dwkehu/thoughts_on_hie/f7nj2e1/
+ghcide-intellij
+https://github.com/gtache/intellij-lsp/issues/125
+ghcide-tips
+
+ghcup
+https://www.haskell.org/ghcup/
+ginsu
+http://repetae.net/john/computer/ginsu/
+gitbook
+https://git-scm.com/book/en
+github
+http://github.com
+glasgow-haskell-users
+http://www.haskell.org/pipermail/glasgow-haskell-users/
+gmail
+
+goa
+http://haskell.org/haskellwiki/GHC/GHCi#GHCi_on_Acid
+gofer
+http://www.cse.ogi.edu/~mpj/goferarc/
+goodbot
+Among sm[m]'s favourites: https://limnoria.net
+googl
+http://www.google.com
+google
+
+googledns
+8.8.8.8 and 8.8.4.4
+grin
+http://www.cs.chalmers.se/~boquist/ifl96-abstract.html
+gslhaskell
+http://dis.um.es/~alberto/GSLHaskell/
+gsoc
+#haskell-gsoc | http://www.google-melange.com/gsoc/org/google/gsoc2013/haskell
+gtk2hs
+http://haskell.org/gtk2hs/
+guide
+https://github.com/bitemyapp/learnhaskell
+guihaskell
+http://www-users.cs.york.ac.uk/~ndm/guihaskell/
+gurkenglas_test1
+2+2
+gurkenglas_test2
+@run
+gurkenglas_test3
+@run
+gurkenglas_test4
+2+2
+gurkenglas_test5
+(+1)
+gurkenglas_test6
+1
+gwern
+gwern!!
+h-99
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
+h10
+http://www.haskell.org/onlinereport/haskell2010/
+h10.announcement
+http://www.haskell.org/pipermail/haskell/2009-November/021750.html
+h2010
+http://www.haskell.org/onlinereport/haskell2010/
+h4sh
+http://www.cse.unsw.edu.au/~dons/h4sh.html
+h98
+http://haskell.org/onlinereport/
+habit
+The preliminary Habit report: http://hasp.cs.pdx.edu/habit-report-Nov2010.pdf
+hac
+http://haskell.org/haskellwiki/HAC
+hac07
+http://haskell.org/haskellwiki/Hac_2007
+hac08
+http://www.haskell.org/haskellwiki/Hac_2008
+hackage
+<http://hackage.haskell.org/package/>, also see `revdeps',`status'
+hackage-mirror
+remote-repo: hdiff.luite.com:http://hdiff.luite.com/packages/archive/
+hackage-torrent
+http://mauke.ath.cx/tmp/2009-10-19-hackage-archive.torrent
+hackage2
+http://code.haskell.org/hackage-server/
+hackagedb
+http://hackage.haskell.org/ModHackage/Hackage.hs?action=home
+hackagemirror
+http://hackage.factisresearch.com/
+hackagetorrent
+http://mauke.ath.cx/tmp/2009-10-19-hackage-archive.torrent
+hackathon
+http://www.haskell.org/haskellwiki/Hackathon
+hackego
+`cat lambdabot
+hackegoloop
+I know nothing about hackegoloop.
+hackett
+"Haskell with a phased, hygienic macro system" by lexi-lambda at <http://docs.racket-lang.org/hackett/index.html>,<https://lexi-lambda.github.io/tags/hackett.html>
+hackport
+http://haskell.org/~gentoo/hackport/
+hacle
+http://www-users.cs.york.ac.uk/~mfn/hacle/
+haddock
+http://www.haskell.org/haddock/
+hafydd's_dick
+I know nothing about Hafydd's_dick.
+haglr
+http://wiki.di.uminho.pt/twiki/bin/view/Research/PURe/HaGLR
+haiku
+http://haskell.org/haskellwiki/Haiku
+halfs
+http://www.haskell.org/halfs
+halvm
+http://halvm.org/wiki/
+happs
+http://happs.org
+happy
+http://www.haskell.org/happy/
+happy-darcs
+darcs get http://darcs.haskell.org/happy/
+hare
+http://www.cs.kent.ac.uk/projects/refactor-fp/
+harp
+http://www.cs.chalmers.se/~d00nibro/harp
+harpy
+http://uebb.cs.tu-berlin.de/harpy/
+harrorth
+http://perlcabal.org/~nothingmuch/harrorth/
+hash-tables
+http://enfranchisedmind.com/blog/posts/problems-with-hash-tables/
+hashell
+haskell.org/hashell
+haskel
+<http://web.archive.org/web/20070703001910/http://www.cs.chalmers.se/~augustss/pics/haskel.gif>
+haskell
+http://haskell.org
+haskell'
+http://hackage.haskell.org/trac/haskell-prime
+haskell-cafe
+http://www.haskell.org/mailman/listinfo/haskell-cafe
+haskell-cafe@
+http://www.haskell.org/mailman/listinfo/haskell-cafe
+haskell-cgi
+http://www.cs.chalmers.se/~bringert/darcs/haskell-cgi/
+haskell-exts
+http://hackage.haskell.org/trac/haskell-prime/wiki/HaskellExtensions
+haskell-for-mathematicians
+http://sigfpe.blogspot.com/2006/01/eleven-reasons-to-use-haskell-as.html
+haskell-koans
+<http://haskell.org/haskellwiki/Koans> -- in another sense, see <https://github.com/hskoans/hskoans>
+haskell-mode
+http://haskell.org/haskellwiki/Haskell_mode_for_Emacs
+haskell-platform.xhtml
+http://www.vex.net/~trebla/haskell/haskell-platform.xhtml
+haskell-prime
+http://hackage.haskell.org/trac/haskell-prime
+haskell-pyramid
+https://patrickmn.com/software/the-haskell-pyramid/
+haskell-quiz
+http://haskell.org/haskellwiki/Haskell_Quiz
+haskell-search
+http://tinyurl.com/y5kvdq
+haskell-starter
+http://github.com/jaspervdj/planet-wars-haskell
+haskell.vim
+http://urchin.earth.li/~ian/vim/haskell.vim
+haskell2010
+http://www.haskell.org/onlinereport/haskell2010/
+haskell98
+http://haskell.org/onlinereport/
+haskell@
+http://www.haskell.org/mailman/listinfo/haskell
+haskellbook
+http://haskellbook.com
+haskelldb
+http://haskelldb.sourceforge.net/
+haskelldocs
+http://haskell.org/ghc/docs/latest/html/libraries/index.html
+haskellexts
+http://hackage.haskell.org/trac/haskell-prime/wiki/HaskellExtensions
+haskellreddit
+http://haskell.reddit.com
+haskellsearch
+http://www.google.com/coop/cse?cx=015832023690232952875%3Acunmubfghzq
+haskerl
+http://www.dcs.gla.ac.uk/~partain/haskerl.html
+haskls
+http://scannedinavian.com/~boegel/HaskLS/
+haskore
+http://cvs.haskell.org/darcs/haskore/
+hasktags
+http://www.cl.cam.ac.uk/users/rje33/software.html
+hasp
+http://scannedinavian.com/~lemmih/hasp
+haste
+http://haste.dyndns.org:8080/
+hat
+http://www.haskell.org/hat/
+hat-anim
+http://www.haskell.org/hat
+hat-detect
+http://www.haskell.org/hat
+hat-gui
+http://www-users.cs.york.ac.uk/~ndm/projects/hat.php
+hat-observe
+http://www.haskell.org/hat
+hawiki
+http://haskell.org/hawiki/
+haxe
+http://haxe.org/
+haxml
+http://haskell.org/HaXml
+hayoo
+http://hayoo.fh-wedel.de/ -- See also Hoogle: http://haskell.org/hoogle http://fpcomplete.com/hoogle
+hbc
+The Chalmers Haskell-B Compiler by Lennart Augustsson (augustss) at (darcs get) <http://www.cse.unsw.edu.au/~dons/code/hbc>,<http://darcs.augustsson.net/Darcs/hbc> -- Alternatively, the Hierarchical Bayes Compiler <http://www.cs.utah.edu/~hal/HBC/>
+hbi
+See `hbc'
+hcar
+https://wiki.haskell.org/Haskell_Communities_and_Activities_Report
+hdbc
+http://quux.org/devel/hdbc
+hdiff
+http://hdiff.luite.com/
+hdirect
+http://haskell.org/hdirect/
+hel
+`run sh lbl
+helisp
+http://www.codersbase.com/index.php/helisp
+helium
+http://www.cs.uu.nl/research/projects/helium/
+helm
+http://hackage.haskell.org/package/helm
+help
+Got the code? Got the info? Then we've got the help for you!
+hera
+http://www.haskell.org/haskellwiki/Haskell_Equational_Reasoning_Assistant
+hexham
+Hexham is in Northumblingaroundland
+hfaafb
+Tampa, FL
+hgl
+http://haskell.org/graphics/index.html
+hhl
+http://www.haskell.org/ghc/docs/latest/html/libraries/
+hide
+http://haskell.org/haskellwiki/HIDE
+hier
+http://haskell.org/ghc/docs/latest/html/libraries/index.html
+high-level-ffi
+http://ugcs.net/~keegan/talks/high-level-ffi/talk.pdf
+highlightwith
+@@ @run text $ (\args -> concat (take 2 args) ++ ", " ++ unwords (drop 2 args)) $ words @show
+himerge
+http://www.haskell.org/himerge/
+hinam
+http://www.reddit.com/tb/agkls
+hindent
+https://github.com/chrisdone/hindent/
+hinotify
+http://haskell.org/~kolmodin/code/hinotify/
+historyofhaskell
+http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/index.htm
+hlint
+http://community.haskell.org/~ndm/hlint/
+hlist
+http://hackage.haskell.org/package/HList
+hmake
+http://haskell.org/hmake
+hmmm
+% 64+64
+hmp3
+http://www.cse.unsw.edu.au/~dons/hmp3.html
+hmpi
+http://foldr.org/~michaelw/hmpi/
+hnop
+http://semantic.org/hnop/
+hoc
+http://hoc.sourceforge.net/
+hogg
+http://www.annodex.net/~conrad/software/hogg/
+hood
+www.haskell.org/hood/
+hoogle
+http://haskell.org/hoogle http://hoogle.haskell.org http://fpcomplete.com/hoogle – See also Hayoo, which searches more packages: http://hayoo.fh-wedel.de/
+hop
+http://www.macs.hw.ac.uk/~sebc/hOp/
+hope
+http://hope.bringert.net/
+hopengl
+http://haskell.org/HOpenGL/
+horror
+http://jpg.artige.no/store/9871.jpg
+hott
+http://homotopytypetheory.org/book/
+house
+http://programatica.cs.pdx.edu/House/
+howtousewhere+
+you type @where+ name fact and other stuff
+hp
+http://hackage.haskell.org/platform/
+hp2any
+http://www.haskell.org/haskellwiki/Hp2any
+hpasta-dns
+I know nothing about hpaste-dns.
+hpaste
+http://hpaste.org/
+hpaste-dns
+I know nothing about hpasta-dns.
+hpaste.el
+http://haskell.org/haskellwiki/Hpaste.el
+hpaste2
+http://hpaste.org/
+hpastetwo
+http://moonpatio.com:8080/fastcgi/hpaste.fcgi/new
+hpc
+http://www.haskell.org/haskellwiki/Haskell_Program_Coverage
+hpffp
+"Haskell Programming: from first principles - Pure functional programming without fear or frustration" by Chistopher Allen (bitemyapp),Julie Moronuki at <http://haskellbook.com/>,#haskell-beginners
+hq9+
+http://www.cliff.biffle.org/esoterica/hq9plus.html
+hr
+"The Haskell Road to Logic, Maths and Programming", by Kees Doets,Jan van Eijck, at <http://homepages.cwi.nl/~jve/HR/> (broken ?),<https://web.archive.org/web/20190528043209/https://homepages.cwi.nl/~jve/HR/>
+hs-fltk
+http://www.cs.helsinki.fi/u/ekarttun/hs-fltk/
+hs-plugins
+http://code.haskell.org/~dons/code/hs-plugins
+hsc2hs
+http://www.haskell.org/ghc/docs/latest/html/users_guide/hsc2hs.html
+hscolour
+http://www.cs.york.ac.uk/fp/darcs/hscolour/
+hscurses
+http://www.informatik.uni-freiburg.de/~wehr/software/haskell/#hscurses
+hsfltk
+http://www.cs.helsinki.fi/u/ekarttun/hs-fltk/
+hsgnutls
+http://www.cs.helsinki.fi/u/ekarttun/hsgnutls
+hsh
+http://software.complete.org/hsh
+hslua
+http://home.agh.edu.pl/~gpolak/hslua
+hsoe
+Haskell School of Expression.
+hsp
+http://www.cs.chalmers.se/~d00nibro/hsp
+hsplugins
+http://www.cse.unsw.edu.au/~dons/hs-plugins/
+hsql
+http://htoolkit.sourceforge.net
+hssdl
+http://darcs.haskell.org/~lemmih/hsSDL
+hssyck
+http://svn.openfoundry.org/pugs/third-party/HsSyck/
+hsx
+http://www.cs.chalmers.se/~d00nibro/haskell-src-exts/
+htac
+"Haskell Tutorial and Cookbook" by Mark Watson in 2017-09-04 at <https://leanpub.com/haskell-cookbook>
+htdp
+http://www.htdp.org/
+htf
+http://www.stefanwehr.de/darcs/HTF
+http
+http://www.haskell.org/http/
+http://ai-contest.com/rankings.php
+
+http://github.com/jaspervdj/blazehtml
+
+http://hope.bringert.net/
+
+http://purelytheoretical.com/sywtltt.html
+
+http://www-users.cs.york.ac.uk/~ndm/projects/hat.php
+
+http://www.cse.unsw.edu.au/~dons/fps.html
+
+hugs
+http://haskell.org/hugs
+humor
+http://www.haskell.org/haskellwiki/Humor
+hunit
+http://hunit.sourceforge.net/
+hwn
+Haskell Weekly News http://contemplatecode.blogspot.com/ For older posts, see http://sequence.complete.org/
+hwn-archives
+http://www.cse.unsw.edu.au/~dons/code/hwn/archives/
+hxt
+http://www.fh-wedel.de/~si/HXmlToolbox/
+hxweb
+http://darcs.haskell.org/~lemmih/hxweb
+h�nan_agda
+"Hönan Agda" ("Agda the Chicken") by singer-songwriter,poet Cornelis Vreeswijk at <https://www.youtube.com/watch?v=zPY42kkRADc>
+i
+You're right here with me. Where else?
+ibid
+http://antti-juhani.kaijanaho.fi/newblog
+icccm
+http://tronche.com/gui/x/icccm/
+icfp2006
+http://icfpcontest.org/
+idiom
+"A trail told by an idiom" (aborted) by Conor McBride at <http://strictlypositive.org/Idiom-abort.pdf>;"Idioms: applicative programming with effects" ("too long") by ibid,Ross Paterson at <http://strictlypositive.org/Idiom.pdf>;"Applicative programming with effects" by ibid in 2008 at <http://strictlypositive.org/IdiomLite.pdf>,<http://www.staff.city.ac.uk/~ross/papers/Applicative.html>
+idoc
+http://www.cse.unsw.edu.au/~chak/haskell/idoc/
+idris
+#idris http://idris-lang.org/
+ieee-754
+ftp://ftp.heanet.ie/disk1/openwatcom/devel/docs/ieee-754.pdf
+if'
+if' p t f = if p then t else f
+ifpl
+http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/
+imageboard
+https://github.com/paulmillr/happstack-imageboard
+implementations
+<http://www.haskell.org/haskellwiki/Implementations>. Also see `GHC',`Hugs',`Helium',`UHC',`DDC',`LHC',`JHC',`YHC',`NHC',`HBC',`UHC',`YaleHaskell',`Brisk'
+import
+https://wiki.haskell.org/Import
+importing
+https://wiki.haskell.org/Import
+imports
+http://www.haskell.org/haskellwiki/Import_modules_properly
+impossible
+<http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/>,<http://math.andrej.com/2008/11/21/a-haskell-monad-for-infinite-search-in-finite-time/>
+impredicative
+http://en.wikipedia.org/wiki/Impredicative
+increment
+@@ @run flip const (@show (@where+ counter (@run (@where increment_function) $ (@where counter)))) (@where counter)
+increment_function
+(+1)
+incremental
+"Monads for Incremental Computing" (Functional Pearl) by Magnus Carlsson in 2002 (ICFP) at <http://www.carlssonia.org/ogi/papers/icfp-2002.pdf>,<http://www.carlssonia.org/ogi/Adaptive/>,in Hackage at <http://hackage.haskell.org/package/Adaptive>
+incremental-parameter-antipattern
+"Haskell anti-pattern: incremental ad-hoc parameter abstraction" by Brent Yorgey at <http://byorgey.wordpress.com/2010/04/03/haskell-anti-pattern-incremental-ad-hoc-parameter-abstraction/>
+indirectcomposite
+<http://web.archive.org/web/20051126141834/http://haskell.org/hawiki/IndirectComposite>
+industry
+http://www.haskell.org/haskellwiki/Haskell_in_industry
+infloop
+@@ @where infloop
+inlining
+http://research.microsoft.com/en-us/um/people/simonpj/Papers/inlining/
+insanity
+http://haskell.org/haskellwiki/User:ConradParker/InstantInsanity
+intro
+http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes
+invented
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
+invokebitemyapp
+bear puppy papuchon chris bitemyapp
+io
+Raphael L. Levien's language with continuations as fundamental structure, described in his paper "Io: a new programming notation" (1989-09-10) at <http://dl.acm.org/citation.cfm?id=70931.70934> and in chapter 2 of Raphael A. Finkel's book `APLD', implementations `Amalthea',`Ganymede' - (perhaps you were looking for `@wiki Introduction to IO' ?)
+ion
+http://modeemi.cs.tut.fi/~tuomov/ion/
+iospec
+http://www.cs.nott.ac.uk/~wss/repos/IOSpec/
+iotut
+https://www.vex.net/~trebla/haskell/IO.xhtml
+irulan
+http://www.doc.ic.ac.uk/~tora/irulan/
+issues
+http://code.google.com/p/ai-contest/issues/list
+isthatthecase
+gwern: Some security mechanism.
+it
+In GHCI, the previously entered expression (or the result of executing it, in the IO case) can be referenced by the special variable `it'.
+iteratees
+http://hackage.haskell.org/package/iteratee http://cdsmith.wordpress.com/2010/05/23/iteratees-step-by-step-part-1/
+j
+The J Programming language: http://www.jsoftware.com
+jgct
+http://haskell.org/haskellwiki/Xmonad/Config_archive/John_Goerzen%27s_Configuration
+jhc
+http://repetae.net/john/computer/jhc/
+jmcarthur
+http://ai-contest.com/profile.php?user_id=3888
+joc
+http://katmat.math.uni-bremen.de/acc/
+joinhs
+http://www.haskell.org/tmrwiki/JoinHs
+joke
+We regret to inform you a joke has been told in your vicinity. Our sincere apologies for any cognitive dissonance this may have caused.
+jregex
+http://repetae.net/john/computer/haskell/JRegex/
+justask
+Just ask your question. If somebody knows, they'll answer. If not, they won't, and you'll wait around; it will be no worse than having nobody who wants to claim expertise.
+jvm-bridge
+http://sourceforge.net/projects/jvm-bridge/
+keys
+Please see: @where ?
+keys.bak
+Some useful @where queries: keys paste cabalstackhelp
+keywords
+case class data default deriving do else foreign if import in infix infixl infixr instance let module newtype of then type where _
+kmc
+http://t0rch.org/
+koan
+http://haskell.org/haskellwiki/Koans
+koans
+See `haskell-koans',`fp-koans',`ai-koans',`unix-koans',`object-closure-koan',`zen-koans'. Also see `zen-tales',`programming-tao' (cf. `TAOCP'),`loginataka'
+kolmodin
+http://www.dtek.chalmers.se/~kolmodin/
+kuribas-indentation
+http://kuribas.hcoop.net/haskell-indentation.el
+kuribas-mode
+http://kuribas.hcoop.net/haskell-indentation.el
+l.hs
+what lambdabot has in scope is at https://silicon.int-e.eu/lambdabot/State/Pristine.hs
+lambda-match
+http://hackage.haskell.org/trac/haskell-prime/ticket/114
+lambdabot
+http://haskell.org/haskellwiki/Lambdabot
+lambdacats
+http://lambdacats.org
+lambdafeed
+http://www.cse.unsw.edu.au/~chak/haskell/lambdaFeed/
+lambdaprolog
+<http://www.lix.polytechnique.fr/~dale/lProlog/>
+lambdashell
+darcs get http://www.eecs.tufts.edu/~rdocki01/lambda/
+lambdatex
+http://www.jantar.org/lambdaTeX/
+lambdaweb
+http://lambdabot.codersbase.com
+language+
+http://www.haskell.org/ghc/docs/latest/html/users_guide/flag-reference.html#id472118
+languages
+command line flag `--supported-languages' and <http://www.haskell.org/ghc/docs/latest/html/users_guide/flag-reference.html#id472118>
+layout
+http://haskell.org/onlinereport/lexemes.html#sect2.7
+layout2010
+http://www.haskell.org/onlinereport/haskell2010/haskellch2.html#x7-210002.7
+lazy
+"Lazy Evaluation of Haskell" by monochrom at <http://www.vex.net/~trebla/haskell/lazy.xhtml>; "The Incomplete Guide to Lazy Evaluation (in Haskell)" by apfelmus in 2015-03-07 at <https://apfelmus.nfshost.com/articles/lazy-eval.html>; "Laziness, strictness, guarded recursion" by bitemyapp at <https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md#user-content-laziness-strictness-guarded-recursion>
+lazy-k
+http://homepages.cwi.nl/~tromp/cl/lazy-k.html
+lazy-regex
+http://sourceforge.net/projects/lazy-regex
+lazyml
+See `lml'
+lazyreverse
+see `sneaky2'
+learn
+https://wiki.haskell.org/Learning_Haskell
+learnhaskell
+https://wiki.haskell.org/Learning_Haskell
+learntt
+http://purelytheoretical.com/sywtltt.html
+leksah
+http://www.leksah.org/
+lens
+#haskell-lens | http://lens.github.io/ | https://github.com/ekmett/lens | http://www.youtube.com/watch?v=cefnmjtAolY&hd=1
+lenses
+<http://twanvl.nl/blog/haskell/overloading-functional-references>,<http://cdsmith.wordpress.com/2011/04/26/composing-state-with-functions-and-lenses/>,<http://patternsinfp.wordpress.com/2011/01/31/lenses-are-the-coalgebras-for-the-costate-comonad/>,<http://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutation>
+lerdorf
+http://en.wikiquote.org/wiki/Rasmus_Lerdorf
+lets-lens
+http://github.com/data61/lets-lens
+lhc
+http://lhc.seize.it/
+lhs2tex
+http://www.cs.uu.nl/~andres/lhs2tex
+lib
+http://haskell.org/ghc/docs/latest/html/libraries/
+liberated
+http://worrydream.com/refs/Backus-CanProgrammingBeLiberated.pdf
+libs
+http://haskell.org/ghc/docs/latest/html/libraries/index.html
+lighthouse
+http://web.cecs.pdx.edu/~kennyg/house/
+links
+http://groups.inf.ed.ac.uk/links/
+lio
+http://www.cse.chalmers.se/~russo/publications_files/haskell11-ext.pdf
+liquidhaskell
+"LiquidHaskell (LH) _refines_ Haskell's types with logical predicates that let you enforce critical properties at _compile time_." <https://ucsd-progsys.github.io/liquidhaskell-blog/>,<https://github.com/ucsd-progsys/liquidhaskell>,<http://hackage.haskell.org/package/liquidhaskell>
+liskell
+a SExp syntax for Haskell, by therp : <http://clemens.endorphin.org/liskell> (broken),<https://web.archive.org/web/20081105133119/http://clemens.endorphin.org/liskell>,<http://clemens.endorphin.org/ILC07-Liskell-draft.pdf>,<https://web.archive.org/web/20120609122549/http://www.liskell.org/>
+lispifier
+Haskell Lispifier <http://bm380.user.srcf.net/prettyparsetree.cgi> -- Fully brackets an expression
+lisppaste
+<http://paste.lisp.org/new/haskell.hr>,<http://paste.lisp.org/new>
+lispq3
+http://www.codersbase.com/Quake3
+lispyprojects
+http://www.codersbase.com/Projects
+listlike
+http://software.complete.org/software/projects/show/listlike
+listmonster
+http://learnyouahaskell.com/listmonster.png
+listnat
+instance Num [()] where fromInteger x = flip genericReplicate (); (+) = (++); (-) = (\\); (*) = liftA2 (\x y -> ()); abs = id; signum = take 1
+lml
+See `hbc'
+lmops
+beingbrown jesyspa nchambers pharpend wei2912
+loch
+http://www.cse.unsw.edu.au/~dons/loch.html
+loeb
+https://github.com/quchen/articles/blob/master/loeb-moeb.md
+loginataka
+"The Loginataka: Dialogue between a Guru and a Newbie" (aka "So You Want To Be A Wizard?") by Eric S. Raymond at <http://www.catb.org/~esr/faqs/loginataka.html>
+logitext
+"Interactive Tutorial of the Sequent Calculus" by ezyang at <http://logitext.mit.edu/logitext.fcgi/tutorial>,<http://logitext.mit.edu/logitext.fcgi/main>,<http://blog.ezyang.com/2012/05/an-interactive-tutorial-of-the-sequent-calculus/>
+logs
+http://tunes.org/~nef/logs/haskell/ http://meme.b9.com/cdates.html?channel=haskell
+lol
+www.letoverlambda.com
+lolcats
+http://tinyurl.com/lambdacats
+longcat
+http://lpaste.net/8063137500022964224
+loop
+@@ @where loop
+love
+http://en.wikipedia.org/wiki/Where_Is_Love%3F
+lpaste
+http://lpaste.net/
+lpaste.el
+chrisdone's `lpaste-region' for Emacs at <https://github.com/chrisdone/chrisdone-emacs/tree/master/packages/lpaste>
+ltu
+http://lambda-the-ultimate.org/
+lunabot
+http://moonpatio.com/repos/lunabot/ {- currently just the bare bot + ghc-api-eval + eval-rlimit-sandboxed-stdin->stdout (and no docs) -}
+lunch
+I know nothing about lunch, save that there are no free ones.
+lyah
+http://www.learnyouahaskell.com/
+lyops
+dts|pokeball pharpend
+lysa
+http://www.learnyou.org/
+lysaops
+dts|pokeball pharpend
+macosxops
+rorx Axman6 The__Doctor Kernel86 tbo jkyle RichardP RichardP_ adiabatic
+mailinglist
+http://haskell.org/haskellwiki/Mailing_lists
+manuel
+https://downloads.haskell.org/~ghc/7.4.1/docs/html/libraries/ghc-prim-0.2.0.0/src/GHC-Tuple.html
+map
+http://www.haskell.org/haskellwiki/HaskellUserLocations
+mathbin
+http://www.mathbin.net/
+mathpaste
+http://www.mathbin.net/
+me
+/me knows nothing about me.
+medfly
+I know nothing about medfly.
+meep
+http://ab-initio.mit.edu/meep/
+memristors
+http://www.ieeeghn.org/wiki/images/b/bd/Memristor_chua_article.pdf
+mentor
+https://github.com/haskell-learning-group/haskell-learning-group
+mentors
+https://github.com/haskell-learning-group/haskell-learning-group
+minho
+http://wiki.di.uminho.pt/wiki/bin/view/PURe/PUReSoftware
+ministg
+http://www.haskell.org/haskellwiki/Ministg
+mirror
+see hackage-mirror
+missingh
+http://quux.org/devel/missingh
+missingpy
+http://darcs.complete.org/missingpy/
+mkcabal
+darcs get http://www.cse.unsw.edu.au/~dons/code/mkcabal
+mmr
+https://wiki.haskell.org/Monomorphism_restriction
+mmt
+http://www.cs.nott.ac.uk/~mjj/pubs/mmt/mmt.pdf
+mockingbird
+"To mock a mockingbird : and other logic puzzles including an amazing adventure in combinatory logic" by R. M. Smullyan, "To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction" at <http://dkeenan.com/Lambda/> by David C. Keenan. Also see `smullyan'
+monad-embed
+http://timmaxwell.org/pages/monad-embed/
+monad-tutorials
+See `AAM',`MTSS'
+monadfix_cont
+"Value recursion in the continuation monad" by Magnus Carlsson in 2003-01-07 at <http://www.carlssonia.org/ogi/mdo-callcc.pdf> (there's also slides at <http://www.carlssonia.org/ogi/mdo-callcc-slides.pdf>)
+monadlaws
+http://www.haskell.org/haskellwiki/Monad_Laws
+monadlib
+http://www.cse.ogi.edu/~diatchki/monadLib/
+monadplus
+http://www.haskell.org/haskellwiki/MonadPlus or http://www.haskell.org/haskellwiki/MonadPlus_reform_proposal
+monads
+http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf
+monoid
+Monoid is used in Writer monad, (->) w (Writer Comonad?), FingerTrees, and Foldable.
+monoidal-applicatives
+http://blog.ezyang.com/2012/08/applicative-functors/
+monoids
+comment on "Monoids? In my programming language?" by Cale in 2008 (or 2009 ?) at <http://www.reddit.com/r/programming/comments/7cf4r/monoids_in_my_programming_language/c06adnx> about a use of `instance Monoid a => Monoid (rho -> a)'
+monomorphismrestriction
+https://wiki.haskell.org/Monomorphism_restriction
+morrow
+http://www.cs.uu.nl/~daan/morrow/
+mr
+http://www.haskell.org/haskellwiki/Monomorphism_restriction
+mrrogers
+https://i.imgur.com/5d3ENYQ.gif
+mtl
+http://www.haskell.org/haskellwiki/Monad_Transformer_Library
+mtm
+http://www.haskell.org/all_about_monads/html/introduction.html
+mtss
+"Monad Transformers Step by Step" by Martin Grabmüller in 2006-10-16 (draft) at <https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf>
+mu
+http://www.catb.org/jargon/html/M/mu.html
+mudge
+http://nickmudge.info/
+multiline_string
+"abc\ <newlines or other whitespace go here> \def"
+multiplate
+<https://www.haskell.org/haskellwiki/Multiplate>,<https://hackage.haskell.org/package/multiplate>
+music1
+http://www.youtube.com/watch?v=eLS6GHXWMpA
+music2
+http://www.youtube.com/watch?v=xaoLbKWMwoU
+my_feature
+Go for it!
+mysql
+http://www.serpentine.com/software/mysql/
+nameless
+Nameless, Painless: https://nicolaspouillard.fr/publis/nameless-painless.pdf
+ndm
+http://www.cs.york.ac.uk/~ndm/
+ndp
+http://darcs.haskell.org/packages/ndp/Data/Array/Parallel/ http://www.cse.unsw.edu.au/~chak/project/dph http://haskell.org/haskellwiki/GHC/Data_Parallel_Haskell
+nehe-tuts
+darcs get http://projects.codersbase.com/repos/nehe-tuts/
+nereid
+/me says hi
+network
+http://trac.haskell.org/network/
+network-alt
+http://www.cs.helsinki.fi/u/ekarttun/network-alt/
+newbinary
+darcs get http://www.n-heptane.com/nhlab/repos/NewBinary
+newpopen
+darcs get http://www.cse.unsw.edu.au/~dons/code/newpopen
+next
+okmij.org/ftp/ , and you won't get further.
+next-700
+"The Next 700 Programming Languages" by Peter J. Landin in 1965-08 at <http://thecorememory.com/Next_700.pdf>,<https://dl.acm.org/citation.cfm?id=365257>
+nhc
+http://haskell.org/nhc98
+nhc98
+http://haskell.org/nhc98
+nick_database
+[[("IRC","Gurkenglas"),("GitHub","Gurkenglas")]]
+nick_database_add
+@@ @run text $ (\t -> if t == "[([Char], [Char])]" then "@where+ nick_database @run (:) nick_database_addbuffer @where nick_database" else "@show Type mismatch: You can only add a [(String, String)] to the nick database.") @show @type nick_database_addbuffer @run const (text " ") @show @let nick_database_addbuffer =
+nicta
+https://github.com/nicta/course
+nikki
+http://joyridelabs.de/game/
+nirvana
+Hack cabal-install to use only Father Snoyman's blessed versions http://hackage.haskell.org/package/cabal-nirvana
+nix
+http://nixos.org/
+nixos
+http://nixos.org/
+nmr
+-XNoMonomorphismRestriction
+no
+http://brage.info/~svein/no.jpg
+nobench
+http://www.cse.unsw.edu.au/~dons/nobench.html
+nodatatypecontexts
+http://www.haskell.org/pipermail/haskell/2011-January/022497.html
+non-haskell-books
+`SICP',`CTM',`TaPL',`AtTaPL',`APLD',`PLAI',`TAOCP',`SF',`CPDT',`TTFP',`PFPL',`SICM',`TTT',`EOPL',`AIMA',`PAIP',`AoP',`PLFA',`CTfP',`book-acronyms'
+norway
+
+notable
+http://www.haskell.org/haskellwiki/Xmonad/Notable_changes_since_0.8
+numericprelude
+darcs.haskell.org/numericprelude/
+nymphaea
+http://haskell.galois.com/~paolo/nymphaea
+o'haskell
+extension to Haskell adding subtyping and records, plus non-blocking reactive communication, by Johan Nordlander, Magnus Carlsson, and Bj�rn von Sydow, at <http://web.archive.org/web/20090517021445/http://www.cs.chalmers.se/~nordland/ohaskell/>, also see `Timber'
+oaao
+https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/LitOrn.pdf
+object-closure-koan
+"RE: What's so cool about Scheme?" (Teachings of venerable master Qc Na) by Anton van Straaten in 2003-06-04 at <http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html> (cf. "RE: accumulator generator (Java)" by ibid in 2002-05-23 at <msg01488.html> (same site)) (Also see "Six of One, a Half Dozen of the Other" by Glenn Vanderburg in 2004-03-29 at <https://vanderburg.org/blog/2004/03/29/koan.html>)
+object-oriented
+http://community.schemewiki.org/?object-oriented-programming
+oblivious
+http://homepages.inf.ed.ac.uk/wadler/papers/arrows-and-idioms/arrows-and-idioms.pdf
+oeis
+https://oeis.org/
+okasaki
+http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
+okokok
+^ok abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabca`welcome fdhsfdsgdsg
+oleg
+http://okmij.org/ftp/
+olist
+olist ((@run text . filter isNumber $ "")): shachaf oerjan
+omegagb
+http://www.mutantlemon.com/omegagb/
+on-functors
+"On Functors" (in C++,Standard ML,Haskell,Prolog) by Peteris Krumins in 2010-05-17 at <http://www.catonmat.net/blog/on-functors/>
+on-understanding
+"On Understanding Types, Data Abstraction, and Polymorphism" by Luca Cardelli,Peter Wegner in 1985-12 at <http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf>
+on-understanding-revisited
+"On Understanding Data Abstraction, Revisited" by William R. Cook in 2009-10 at <http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf>
+ontology
+http://www.shirky.com/writings/ontology_overrated.html
+oohaskell
+http://arxiv.org/abs/cs/0509027
+openbsd
+http://openbsd.org/
+oplss
+you can find original OPLSS videos here (https://www.cs.uoregon.edu/research/summerschool/summerYEAR/curriculum.html) by replacing YEAR with a two-digit year (starting with 05). you can also find many videos on youtube. years 2010 to 2014 are also stored in @where (eg @where oplss2012).
+oplss2010
+https://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html
+oplss2011
+https://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html
+oplss2012
+https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html
+oplss2013
+https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html
+oplss2014
+https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html
+ops
+byorgey Cale conal copumpkin dcoutts dibblego dolio edwardk geekosaur glguy jmcarthur johnw mniip monochrom quicksilver shachaf shapr ski
+ops-blah
+xerox SyntaxPolice Itkovian Philippa Boegel shapr BCoppens Oejet copumpkin
+orphans
+http://www.haskell.org/ghc/docs/latest/html/users_guide/separate-compilation.html#orphan-modules
+other-keys
+uniplate,ffi,Typeclassopedia,report,Phooey,okasaki,liskell,stepeval,TTT,wikibook
+owner
+int-e
+paip
+"Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp" by Peter Norvig in 1992 at <http://www.norvig.com/paip.html>,<http://www.norvig.com/paip/README.html>,<https://github.com/norvig/paip-lisp>
+pan
+http://conal.net/Pan
+pandoc
+http://sophos.berkeley.edu/macfarlane/pandoc/
+pappy
+http://pdos.csail.mit.edu/~baford/packrat/thesis/
+parallel
+http://www.haskell.org/haskellwiki/Parallel
+parconc
+https://www.safaribooksonline.com/library/view/parallel-and-concurrent/9781449335939/
+paredit
+Minor Emacs mode for editing parentheses at <http://mumble.net/~campbell/emacs/paredit.html>,<http://mumble.net/~campbell/emacs/paredit.el> by Taylor R. Campbell (Riastradh)
+parsec
+http://legacy.cs.uu.nl/daan/parsec.html
+parsek
+http://www.cs.chalmers.se/Cs/Research/Functional/MultiLib/koen/Parsek.hs
+parsing
+http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-044.pdf
+paste
+Help us help you: at https://hastebin.com please paste full code, input, and output.
+paste-hr
+http://paste.lisp.org/new/haskell.hr
+paste-rafb
+http://rafb.net/paste
+paste.hr
+http://paste.lisp.org/new/haskell.hr
+paste2
+https://bpa.st/
+paste3
+https://paste.debian.net/
+pastebin
+http://rafb.net/paste
+pattern
+guard http://www.haskell.org/haskellwiki/Pattern_guard
+pattern-guard
+http://haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#pattern-guards
+pattern-guards
+http://www.haskell.org/haskellwiki/Pattern_guard
+patternguard
+http://haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#pattern-guards
+patternguards
+http://haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#pattern-guards
+pcap
+http://www.serpentine.com/software/pcap/
+pcph
+"Parallel and Concurrent Programming in Haskell" by Simon Marlow in 2013 at <http://community.haskell.org/~simonmar/pcph/>,<http://chimera.labs.oreilly.com/books/1230000000929/>,<https://web.archive.org/web/20180117194842/http://chimera.labs.oreilly.com/books/1230000000929>,<https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/>
+pe
+http://projecteuler.net/
+performance
+http://haskell.org/haskellwiki/Performance
+perils
+http://www.mail-archive.com/haskell-cafe@haskell.org/msg21306.html
+pfad
+"Pearls of Functional Algorithm Design" by Richard Bird in in 2010-09 at <https://www.cs.ox.ac.uk/news/237-full.html>
+pfds
+http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504
+pfft
+Pfft!
+pfp
+http://web.engr.oregonstate.edu/~erwig/pfp/
+pfpl
+"Practical Foundations for Programming Languages" by Robert Harper at <http://www.cs.cmu.edu/~rwh/plbook/book.pdf>,<https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf>
+phooey
+http://conal.net/phooey/
+php
+http://php.net
+phrac
+http://www.cse.unsw.edu.au/~pls/repos/phrac/
+pi_10
+(!!3)<$>transpose[show$foldr(\k a->2*10^2^n+a*k`div`(2*k+1))0[1..2^n]|n<-[0..]]
+pi_11
+[show(foldr(\k a->20*100^n+a*k`div`(2*k+1))0[1..[4,8..]!!n])!!n|n<-[0..]]
+pih
+"Programming in Haskell" by Graham Hutton in 2007-01-15,2016-09-01 at <http://www.cs.nott.ac.uk/~pszgmh/pih.html>
+ping
+:(
+pipes
+http://hackage.haskell.org/package/pipes
+pivotal
+http://www.cs.kent.ac.uk/projects/pivotal
+pjdelport
+
+plai
+http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/
+planet
+http://planet.haskell.org/
+planet-haskell
+http://antti-juhani.kaijanaho.fi/planet-haskell/
+planethaskell
+http://antti-juhani.kaijanaho.fi/planet-haskell/
+plated
+<https://hackage.haskell.org/package/lens-4.15.4/docs/Control-Lens-Plated.html>
+platform
+http://hackage.haskell.org/platform/
+plbook
+http://www-2.cs.cmu.edu/~rwh/plbook/
+plfa
+"Programming Language Foundations in Agda" (formal methods book) by Wen Kokke,Philip Wadler in 2018-(01-06) at <https://homepages.inf.ed.ac.uk/wadler/topics/agda.html>,<https://plfa.github.io/>
+plnews
+http://www.plnews.org
+plugins
+http://www.cse.unsw.edu.au/~dons/hs-plugins/
+pointfree
+http://haskell.org/haskellwiki/Haskell/Pointfree
+pointless
+http://haskell.org/haskellwiki/Haskell/Pointfree
+polish
+http://people.cs.uu.nl/doaitse/Papers/2003/p224-swierstra.pdf
+polymorphic-type-inference
+"Polymorphic Type Inference" by Michael I. Schwartzbach in 1995-03 at <https://cs.au.dk/~mis/typeinf.p(s|df)>,<http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.1493>
+polyparse
+http://www.cs.york.ac.uk/fp/polyparse/
+polytypic
+<http://www.cse.chalmers.se/~patrikj/poly/>,<http://www.cse.chalmers.se/~patrikj/poly/svenska.html>
+polyvariadic
+http://okmij.org/ftp/Haskell/types.html#polyvar-fn
+pondoc
+10� 43' 0" North, 125� 0' 0" East
+ports
+http://www.cse.unsw.edu.au/~chak/haskell/ports/
+power.of.pi
+"The Power of Pi", N. Oury, W. Swierstra: www.cs.ru.nl/~wouters/Publications/ThePowerOfPi.pdf
+ppa
+https://launchpad.net/~hvr/+archive/ubuntu/ghc
+pqc
+http://www.cse.unsw.edu.au/~dons/pqc.html
+pragma-history
+https://ghc.haskell.org/trac/ghc/wiki/LanguagePragmaHistory
+pragmas
+http://www.haskell.org/haskellwiki/Language_Pragmas
+prefixes
+Bot prefixes on #esoteric : fungot ^, HackEso `, EgoBot !, lambdabot @ or ?, thutubot +, metasepia ~, idris-bot ( , jconn ) , j-bot [ , bfbot =.
+preflexhack
+preflex: quote *
+prelude
+http://www.haskell.org/onlinereport/standard-prelude.html
+prepose
+"Implicit configurations -- or, type classes reflect the values of types" by Oleg Kiselyov,Chung-chieh Shan in 2004-08 at <http://okmij.org/ftp/Haskell/types.html#Prepose>,<http://mauke.dyndns.org/stuff/papers/prepose.pdf>
+prerequisite
+"Prerequisite for Learning Haskell" <http://www.vex.net/~trebla/haskell/prerequisite.xhtml>
+prettier
+http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf
+pretty-hat
+http://www.haskell.org/hat
+primes
+let primes = 2 : filter isPrime [3,5..]; isPrime n = all (\p -> n `mod` p /= 0) (takeWhile (\p -> p^2 <= n) primes) in primes
+prod
+ACTION waves
+profiling
+http://www.haskell.org/ghc/docs/latest/html/users_guide/profiling.html
+programmers-stone
+"The Programmers Stone" by Alan Carten,Colston Sanger at (<http://www.programmersstone.com/>,)<https://web.archive.org/web/20170726213452/http://the-programmers-stone.com/about>,<http://web.archive.org/web/20000819042340/http://www.reciprocality.org/Reciprocality/r0/index.html>,<https://web.archive.org/web/19980627062945/http://www.melloworld.com/ProgStone/progstone.html>, cf. <http://wiki.c2.com/?ProgrammersStone>
+programming-tao
+"The Tao Of Programming" by Geoffrey James,Duke Hillard,Anupam Trivedi,Sajitha Tampi,Meghshyam Jagannath (ed. by Kragen Javier Sitaker) in 1996-04-10 (or earlier) at <http://canonical.org/~kragen/tao-of-programming.html>
+projecteuler
+http://projecteuler.net/
+pronunciation
+http://www.haskell.org/tmrwiki/IssueSix
+proplang
+http://www.cs.york.ac.uk/fp/darcs/proplang
+proposition
+http://www.cs.york.ac.uk/~ndm/proposition/
+ptr-tag
+http://research.microsoft.com/~simonpj/papers/ptr-tag/index.htm
+pudding
+http://ulf.wiger.net/weblog/2008/02/29/simon-peyton-jones-composing-contracts-an-adventure-in-financial-engineering/
+pugs
+http://www.pugscode.org/
+purely-functional
+"What is a Purely Functional Language?" by Amr Sabry in 1993-01 at <https://www.cs.indiana.edu/~sabry/papers/purelyFunctional.ps>
+purelyfunctional
+"What is a Purely Functional Language?" at <http://www.cs.indiana.edu/~sabry/papers/purelyFunctional.ps> by Amr Sabry, 1998
+pvp
+https://pvp.haskell.org/
+python-starter-unofficial
+http://github.com/ulope/planetwars-python-kit
+pyxm
+http://braincrater.wordpress.com
+q
+I know nothing about q.
+qc2
+darcs get http://www.cs.chalmers.se/~bringert/darcs/QuickCheck/
+qdbm
+http://www.city5.org/haskellprog/qdbm/
+qforeign
+http://www.sourceforge.net/projects/qforeign/
+qi
+http://www.lambdassociates.org/aboutqi.htm
+qthaskell
+http://qthaskell.berlios.de/
+quickcheck
+http://www.cs.chalmers.se/~rjmh/QuickCheck/
+quine
+ap (++) show "ap (++) show "
+quit
+/quit
+quoerjan
+@quote oerjan
+quonochrom
+?quote monochrom
+quote
+preflex: quote
+racket
+http://racket-lang.org/
+rafb
+http://rafb.net/paste
+ranged-sets
+http://sourceforge.net/projects/ranged-sets/
+rankings
+!rankings
+raptors
+http://funstoo.blogspot.com/2011/02/rarr-i-am-dinosaur-hat-delightful.html
+rationalize
+@let rationalize :: (Double, Double) -> Rational; rationalize (a,b) | b <= 0 = -rationalize(-b,-a) | a < 0 = 0 | b <= 1 = 1/rationalize(1/b,1/abs a) | let a'::RealFrac x=>x;a'=max 1(fromInteger (floor a))=a' + rationalize (a-a',b-a')
+rbr
+http://malde.org/~ketil/
+read
+
+reading-list
+http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html
+readmaybe
+Text.Read
+real
+http://book.realworldhaskell.org/read/ <-- the comprehensive xmonad configuration syntax reference
+realworldhaskell
+http://www.realworldhaskell.org/
+reciprocality
+"The Reciprocality Project" by Alan Carter,et al. at <http://web.archive.org/web/20080206034614/http://www.reciprocality.org/Reciprocality/>,<https://web.archive.org/web/20140807154248/http://www.buildfreedom.com/content/reciprocality/>, cf. <http://wiki.c2.com/?ReciprocalityTheory>
+recursion
+?where recursion
+recursion-schemes
+<https://hackage.haskell.org/package/recursion-schemes>. Also see "Functional Programming with Bananas, Lenses, and Barbed Wire" by Erik Meijer,Maarten Fokkinga,Ross Paterson in 1991 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125>,`AoP'
+redacted
+██████████
+reduceron
+http://www.cs.york.ac.uk/fp/reduceron/
+referential-transparency
+"Referential Transparency, Definiteness and Unfoldability" by Harald Søndergaard,Peter Sestoft in 1987-11-30 - 1990-01-04 at <http://www.cs.tufts.edu/~nr/cs257/archive/peter-sestoft/ref-trans.pdf>; see also `uday-reddy-on-referential-transparency'
+reflection
+http://hackage.haskell.org/package/reflection
+regex-dfa
+http://darcs.haskell.org/packages/regex-dfa/
+regex-parsec
+http://darcs.haskell.org/packages/regex-parsec/
+regex-pcre
+http://darcs.haskell.org/packages/regex-pcre/
+regex-tre
+http://darcs.haskell.org/packages/regex-tre/
+renault
+I tried to buy a Renault in a Renault shop, but there were no salesmen available, so I came into this Ford shop. Why won't you sell me a Renault?!
+repa
+REgular PArallel arrays <http://repa.ouroborus.net/>
+report
+http://www.haskell.org/onlinereport/haskell2010/ (more: http://www.haskell.org/haskellwiki/Definition)
+reserved_symbols
+.. : :: = \ | <- -> @ ~ =>
+resultbuffer
+" Not in scope: \226\128\152namerpart2\226\128\153\n Perhaps you meant one of these:\n \226\128\152namepart2\226\128\153 (line 1), \226\128\152namepart1\226\128\153 (line 1)\n"
+revdeps
+<http://packdeps.haskellers.com/reverse>,<http://packdeps.haskellers.com/>,<http://www.yesodweb.com/blog/2011/02/reverse-packdeps>
+revdeps-old
+"Show reverse dependencies" at <http://hackage.haskell.org/trac/hackage/ticket/576>,"Hackage with Reverse Dependencies" by Roel van Dijk at <http://bifunctor.homelinux.net/~roel/hackage/packages/hackage.html>,"Reverse Dependencies" at <http://bifunctor.homelinux.net/~roel/hackage/packages/archive/revdeps-list.html>,<http://packdeps.haskellers.com/reverse> -- `bifunctor.homelinux.net' is broken, use `81.26.216.99' instead
+reverse
+http://packdeps.haskellers.com/reverse reverse deps
+reversedeps
+http://packdeps.haskellers.com/reverse
+reversehackage
+http://packdeps.haskellers.com/reverse
+riot
+http://iki.fi/tuomov/riot/
+rot13
+(let e[a,b,c]=zip[a..c]$[b..c]++[a..]in map$fromMaybe<*>(`lookup`(e"anz"++e"ANZ")))
+rtfr
+http://www.haskell.org/onlinereport/
+rts-xc
+ghc -prof -fprof-auto -rtsopts -osuf .p_o foo.hs && ./foo +RTS -xc # print stack traces on unhandled exceptions
+ruby
+http://ruby-lang.org
+runst
+<elliott> > (id runST) (return 5) <lambdabot> 5 <elliott> > id runST (return 5) <lambdabot> Couldn't match expected type `m t' <lambdabot> against inferred type `forall s. GHC.ST.ST s a'
+rwh
+http://www.realworldhaskell.org/blog/ http://book.realworldhaskell.org/read/
+rwh-examples
+http://examples.oreilly.com/9780596514983/rwh-examples2.zip
+rwh-ffi
+http://book.realworldhaskell.org/read/interfacing-with-c-the-ffi.html
+rwh-source-code
+http://examples.oreilly.com/9780596514983/rwh-examples2.zip
+safe
+http://www.cs.york.ac.uk/fp/haddock/safe/Safe.html
+safehaskell
+<http://www.haskell.org/ghc/docs/latest/html/users_guide/safe-haskell.html>,<https://ghc.haskell.org/trac/ghc/wiki/SafeHaskell>,<http://safehaskell.scs.stanford.edu/>
+saml
+Vietnam, Corea
+sbt
+http://code.google.com/p/simple-build-tool/
+scala
+it's in #scala
+scalacheck
+http://code.google.com/p/scalacheck/
+scalaz
+http://code.google.com/p/scalaz
+scheme
+https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+scion
+http://github.com/nominolo/scion
+scopedtypevariables
+https://wiki.haskell.org/ScopedTypeVariables (remember to add "forall")
+sec
+http://conal.net/blog/posts/semantic-editor-combinators/
+see
+
+select
+select [] = []; select (x:xs) = (x,xs) : (map.fmap) (x:) (select xs)
+seq-laws
+`forall x. seq x x = x',`forall x y. seq x (seq x y) = seq x y',`forall x y z. seq x (seq y z) = seq y (seq x z)',`forall x y z. seq (seq x y) z = seq x (seq y z)'
+sequence
+http://sequence.complete.org
+serth
+http://www.cs.helsinki.fi/u/ekarttun/SerTH/
+setjmp
+http://www.vex.net/~trebla/haskell/cont-monad.xhtml
+sexy
+https://github.com/DanBurton/sexy - a Sexier Prelude (under development)
+sf
+"Software Foundations" by Pierce,Casinghino,Greenberg,Sjöberg,Yorgey in 2011-06 at <http://www.cis.upenn.edu/~bcpierce/sf/> about "the mathematical theory of programming and programming languages", "It develops basic concepts of functional programming, logic, operational semantics, lambda-calculus, and static type systems, using the Coq proof assistant."
+shachaf
+I know little about shachaf.
+shapr
+I run to hug and cuddle shapr
+shaskell
+http://davidmercer.nfshost.com/projects/shaskell/shaskell.html
+she
+http://personal.cis.strath.ac.uk/~conor/pub/she/
+shellac
+http://www.eecs.tufts.edu/~rdocki01/shellac/
+shim
+http://mapcar.org/haskell/shim/ http://mawercer.de/~publicrepos/shim/
+shm
+https://github.com/chrisdone/structured-haskell-mode
+shoenig
+Austin, TX
+shootout
+http://shootout.alioth.debian.org/
+shuffle
+http://okmij.org/ftp/Haskell/perfect-shuffle.txt
+shulman
+http://home.sandiego.edu/~shulman/papers/index.html
+sicm
+http://mitpress.mit.edu/sicm/
+sicp
+"Structure and Interpretation of Computer Programs" <http://mitpress.mit.edu/sicp/>,<http://swiss.csail.mit.edu/classes/6.001/abelson-sussman-lectures/>,<https://github.com/sarabander/sicp-pdf> | "Storage and Identification of Cabalized Packages" <http://www.vex.net/~trebla/haskell/sicp.xhtml>
+sicp-cabal
+http://www.vex.net/~trebla/haskell/sicp.xhtml
+sicp.xhtml
+/me . o O ( "Storage and Identification of Cabalized Packages" by Albert Y. C. Lai at <http://www.vex.net/~trebla/haskell/sicp.xhtml> )
+sicpvideos
+http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+sieve
+http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf
+sigfpe
+http://sigfpe.blogspot.com/
+sigfpe_monads
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
+simple-reflect
+http://twanvl.nl/blog/haskell/simple-reflection-of-expressions
+simplereflect
+http://twan.home.fmf.nl/blog/haskell/simple-reflection-of-expressions.details
+sirpengi
+Hawaii, HI
+sixthgear
+Vancouver, Canada
+ski-keys
+(oleg,object-oriented,SICP,CTM,composable-continuations,)topology,impossible,paredit,mockingbird,smullyan,lenses,hbc,hbi,lml,LazyML,implementations,UHC,DDC,YaleHaskell,Alfa,Agda,Fudgets,GF,Cayenne,books,HR,YAHT,SYB,Io,APLD,Amalthea,non-haskell-books,floating-point,revdeps,hackage,O'Haskell,Timber,SF,CPDT,ErikPoll,purely-functional,IndirectComposite,DecoratingStructures,TV,whyfp,Charity,SICM,MonadFix_Cont,bnfc,Ganymede
+ski-keys1
+book-acronyms,L.hs,src,existential-antipattern,on-functors,C/C++,eqproof,boolean-blindness,incremental-parameter-antipattern,antipatterns,blag,COBOL-install,trusting-trust,SafeHaskell,adaptive,incremental,fast-and-loose,monoids,algebraic-blindness,blindnesses,Vital,Backus,liberated,type-intersection,seq-laws,expressive-power,polymorphic-type-inference,on-understanding,on-understanding-revisited,applicative-vs-monadic
+ski-keys2
+logitext,eternalflame,PLFA,free-monoids,koans,haskell-koans,fp-koans,ai-koans,unix-koans,object-closure-koan,zen-koans,zen-tales,programming-tao,TAOCP,loginataka,(gateless-gate),programmers-stone,reciprocality,thwap,prerequisite,referential-transparency,uday-reddy-on-referential-transparency,CTfP,lets-lens,TwT,lazy,MTSS,monad-tutorials
+ski-keys2,generics,syb-papers,compos,uniplate,multiplate,plated,stratego,strafunski,recursion-schemes,polytypic,generichaskell
+
+ski-links
+<https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/>,<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>
+ski-papers
+<https://arxiv.org/pdf/1302.6946.pdf>
+slinky
+Slinky is a Scala web framework http://code.google.com/p/slinky2
+smallcheck
+http://www.cs.york.ac.uk/fp/smallcheck0.2.tar
+smp
+http://www.haskell.org/ghc/dist/current/docs/users_guide/sec-using-smp.html
+smullyan
+Raymond Merril Smullyan, "To mock a mockingbird : and other logic puzzles including an amazing adventure in combinatory logic","The riddle of Scheherazade and other amazing puzzles, ancient & modern","What is the name of this book : The riddle of dracula and other logical puzzles"
+snap
+http://snapframework.com/ #snapframework
+sneaky
+dropFromEnd n xs = zipWith const xs (drop n xs)
+sneaky2
+lazyReverse xs = go xs (reverse xs) where go (_:xs) ~(y:ys) = y : go xs ys; go [] ~[] = []
+soc
+http://hackage.haskell.org/trac/summer-of-code/
+soe
+"The Haskell School of Expression: Learning Functional Programming through Multimedia" by Paul Hudak in 2000 at <http://www.cs.yale.edu/homes/hudak/SOE/>,<http://haskell.org/soe/> [broken]
+soe-gtk
+http://haskell.org/~duncan/soegtk/
+soegtk
+http://haskell.org/~duncan/soegtk/
+soh
+School of Haskell https://haskell.fpcomplete.com/school
+somenewkey
+I know nothing about someNewKey.
+source
+The fixed database for the `src' lambdabot command is at <https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source>
+sparsecheck
+http://www-users.cs.york.ac.uk/~mfn/sparsecheck/
+species
+byorgey's paper : "Species and Functors and Types, Oh My!" at <http://www.cis.upenn.edu/~byorgey/papers/species-pearl.pdf> by Brent Yorgey in 2010-09 [feel free to add more interesting papers]
+split
+http://hackage.haskell.org/packages/archive/split/latest/doc/html/Data-List-Split.html
+spoj
+http://www.spoj.pl/
+src
+The fixed database for the `src' lambdabot command is at <https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source>
+stack-tutorial
+https://www.youtube.com/watch?v=sRonIB8ZStw
+stacktrace
+compile with -prof -fprof-auto -rtsopts and run with +RTS -xc
+standard-prelude
+http://www.haskell.org/onlinereport/standard-prelude.html
+state
+https://silicon.int-e.eu/lambdabot/State/
+stats
+http://www.cse.unsw.edu.au/~dons/irc/
+stats-07
+http://www.cse.unsw.edu.au/~dons/irc/haskell-07.html
+status
+<https://status.haskell.org>,<http://auto-status.haskell.org/>,<https://twitter.com/haskellstatus>
+stdlib
+http://www.haskell.org/ghc/docs/latest/html/libraries/index.html
+stepeval
+<http://www.srcf.ucam.org/~bm380/cgi-bin/stepeval.cgi>,<https://github.com/bmillwood/stepeval>
+stg
+http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.3729
+stgi
+https://github.com/quchen/stgi
+stm
+http://haskell.org/haskellwiki/Software_transactional_memory | http://book.realworldhaskell.org/read/software-transactional-memory.html | http://chimera.labs.oreilly.com/books/1230000000929/ch10.html
+strafunski
+<https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski>
+stratego
+<https://blogs.msdn.microsoft.com/ralflammel/2008/09/19/strategometatheory/>,<https://userpages.uni-koblenz.de/~laemmel/isabelle2/>
+stream-fusion
+http://www.cse.unsw.edu.au/~dons/streams.html
+strength
+http://comonad.com/reader/2008/deriving-strength-from-laziness/
+strictness
+http://en.wikibooks.org/wiki/Haskell/Strictness
+style
+http://urchin.earth.li/~ian/style/haskell.html http://snapframework.com/docs/style-guide https://github.com/chrisdone/haskell-style-guide
+sudoku
+http://www.haskell.org/haskellwiki/Sudoku
+sup
+http://sup.rubyforge.org
+syb
+<https://hackage.haskell.org/package/syb>,<http://www.haskell.org/haskellwiki/Scrap_your_boilerplate>,<https://www.haskell.org/haskellwiki/Applications_and_libraries/Generic_programming/SyB>,`SYB-papers',<http://research.microsoft.com/en-us/um/people/simonpj/papers/hmap/>,<http://homepages.cwi.nl/~ralf/syb2/>,<http://homepages.cwi.nl/~ralf/syb3/>
+syb-papers
+<https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-a-practical-approach-to-generic-programming/>,<https://www.microsoft.com/en-us/research/publication/scrap-your-boilerplate-with-class/>,<http://www.sigplan.org/Awards/ICFP/#2014_Ralf_L%C3%A4mmel_and_Simon_Peyton_Jones>
+syntax
+http://cs.anu.edu.au/Student/comp1100/haskell/tourofsyntax.html
+syntax-tour
+http://cs.anu.edu.au/Student/comp1100/haskell/tourofsyntax.html
+system.filepath
+http://www.cs.york.ac.uk/fp/darcs/filepath
+sywtltt
+http://purelytheoretical.com/sywtltt.html
+tagsoup
+http://www-users.cs.york.ac.uk/~ndm/tagsoup/
+tail-recursion
+http://library.readscheme.org/servlets/cite.ss?pattern=Ste-77
+takusen
+http://hackage.haskell.org/cgi-bin/hackage-scripts/package/Takusen
+taocp
+"The Art of Computer Programming" by Donald E. Knuth in 1962 – (ongoing) at <http://www-cs-staff.stanford.edu/~knuth/taocp.html>
+tapl
+"Types and Programming Languages" by Benjamin C. Pierce in 2002-02-01 at <https://www.cis.upenn.edu/~bcpierce/tapl/>
+taste
+http://conferences.oreillynet.com/pub/w/58/presentations.html
+tcm
+http://conal.net/papers/type-class-morphisms/
+tcpserver
+http://www.benzedrine.cx/planetwars/
+tdmr
+http://www.haskell.org/haskellwiki/Monomorphism_restriction
+tdnr
+http://hackage.haskell.org/trac/haskell-prime/wiki/TypeDirectedNameResolution
+tell
+@help tell
+templatehaskell
+https://wiki.haskell.org/Template_Haskell
+test
+`echo test
+test-quit
+aaaah
+test-scary
+I know nothing about test-scary.
+test-where
+@where
+test2
+
+test3
+I know nothing about test3!!!!!!!!!!!!
+textregexlazy
+http://sourceforge.net/projects/lazy-regex
+th
+http://www.haskell.org/th
+the
+
+thebuffaloroam
+And the skies are not cloudy all day.
+thenbindordo
+"In general, use >> if the actions don't return a value, >>= if you'll be immediately passing that value into the next action, and do-notation otherwise."
+theorems.for.free
+http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf
+these
+data These a b = This a | That b | These a b
+thih
+http://web.cecs.pdx.edu/~mpj/thih/
+thp
+The Haskell Phrasebook - free quick-start guide by Julie Moronukie/Chris Martin, 2019 - https://typeclasses.com/phrasebook
+threadscope
+http://research.microsoft.com/en-us/projects/threadscope/
+thwap
+"Bob the Angry Flower's Quick Guide to" : "the apostrophe" in 2010-02 at <http://eloquentscience.com/wp-content/uploads/2010/02/bobsqu.gif>,"its and it's" in 2010-03 at <http://eloquentscience.com/wp-content/uploads/2010/03/angry-flower-guide-to-its.gif> )
+timber
+concurrent, reactive, event-driven language that was inspired by O'Haskell, <http://timber-lang.org/home.html>. also see `O'Haskell'
+time
+https://wiki.haskell.org/Time
+timeline
+http://www.cs.mu.oz.au/~bjpop/timeline/timeline.5.png
+tmr
+http://themonadreader.wordpress.com/
+to-begin
+https://github.com/bitemyapp/learnhaskell
+to-start
+https://github.com/bitemyapp/learnhaskell
+topology
+"topology in Haskell" <http://www.haskell.org/pipermail/haskell/2004-June/014134.html> and "Synthetic topology of data types and classical spaces" <http://www.cs.bham.ac.uk/~mhe/papers/entcs87.(pdf|dvi|ps)> by Mart�n Escard�
+tourofprelude
+http://ww2.cs.mu.oz.au/172/Haskell/tourofprelude.html
+trac
+http://hackage.haskell.org/trac/ghc/newticket?type=bug
+trebla
+http://www.vex.net/~trebla/
+troll
+
+tronche
+http://tronche.com/gui/x/xlib/
+trusting-trust
+the classic "Reflections on Trusting Trust" Turing Award lecture by Ken Thompson in 1984 at <http://cm.bell-labs.com/who/ken/trust.html>,<http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf>
+tryhaskell
+http://tryhaskell.org/
+ttfp
+http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/
+ttt
+Toposes, Triples and Theories: http://www.cwru.edu/artsci/math/wells/pub/ttt.html
+tutorial
+http://www.haskell.org/tutorial/
+tutorials
+http://haskell.org/haskellwiki/Tutorials
+tv
+"TV is a library for composing /tangible values/, i.e., values that carry along external interfaces. In particular, TVs can be composed to create new TVs, /and/ they can be directly executed with a friendly GUI, a process that reads and writes character streams, or many other kinds interfaces. Values and interfaces are /combined/ for direct use, and /separable/ for composition." <http://www.haskell.org/haskellwiki/TV>
+tvftl
+http://strictlypositive.org/view.ps.gz
+twelf
+http://www.cs.cmu.edu/~twelf/
+twig
+http://www.uploadthis.co.uk/uploads/Twigathy/timetable.html
+twodozen
+http://www.cs.lth.se/EDA120/TwoDozenLessons/
+twt
+"Thinking with Types: Type-Level Programming in Haskell" by Sandy Maguire in 2019-01-10 at <https://leanpub.com/thinking-with-types>
+type
+
+type-intersection
+Euler diagram of intersections between "Proponents of static typing","Propoents of dynamic typing","People familiar with type theory" by Roman Cheplyaka,Maria Kovalyovain 2012-11-05 at <https://ro-che.info/ccc/17>
+type-level-lambda-calculus
+http://www.haskell.org/pipermail/haskell/2006-August/018355.html
+type_error_slicer
+<http://www2.macs.hw.ac.uk/~rahli/cgi-bin/slicer/> for SML
+typeclassopaedia
+Try the American English spelling: Typeclassopedia
+typeclassopedia
+http://www.haskell.org/haskellwiki/Typeclassopedia
+typeof
+http://www.cse.unsw.edu.au/~dons/code/typeof/
+typetheory
+I know nothing about typetheory.
+uday-reddy-on-referential-transparency
+<http://stackoverflow.com/questions/210835/what-is-referential-transparency>,<https://www.reddit.com/r/haskell/comments/x8rr6/uday_reddy_on_referential_transparency_and_fp/>,<http://www.reddit.com/r/haskell/comments/xgq27/uday_reddy_sharpens_up_referential_transparency/>
+uglymemo
+http://hackage.haskell.org/package/uglymemo
+uhc
+The Utrecht Haskell Compiler, implemented using attribute grammars, at <http://www.cs.uu.nl/wiki/UHC>
+um
+http://www.cse.unsw.edu.au/~dons/um.html
+unicode
+http://www.joelonsoftware.com/articles/Unicode.html
+uninstall
+Uninstall, what's that ? -- Also see <http://www.vex.net/~trebla/haskell/sicp.xhtml#remove>
+uniplate
+<https://www.haskell.org/haskellwiki/Uniplate>,<https://hackage.haskell.org/package/uniplate>,<http://community.haskell.org/~ndm/uniplate/>,<http://community.haskell.org/~ndm/darcs/uniplate/uniplate.htm>,<https://github.com/ndmitchell/uniplate>,<https://ndmitchell.com/#uniplate_09_oct_2013>,<http://www-users.cs.york.ac.uk/~ndm/uniplate/>
+units
+http://www.haskell.org/haskellwiki/Physical_units
+unix-koans
+"Rootless Root - The Unix Koans of Master Foo" by Eric S. Raymond (esr) in 2003 at <http://www.catb.org/~esr/writings/taoup/html/unix_koans.html>
+unlambda
+http://www.madore.org/~david/programs/unlambda/
+unlet
+undefine
+unsafe-missiles
+12.8 km from Brisbane
+ur
+Ur and Ur/Web by Adam Chlipala (aka Smerdyakov) at <http://www.impredicative.com/ur/> and #ur -- Ur is a functional, pure, statically-typed, and strict programming language, supporting a powerful kind of metaprogramming based on row types. Ur/Web is Ur plus a special standard library and associated rules for parsing and optimization, supporting construction of dynamic web applications backed by SQL databases.
+urlcheck
+darcs get http://www.cse.unsw.edu.au/~dons/code/urlcheck
+urxvt-transparency
+http://lists.schmorp.de/pipermail/rxvt-unicode/2008q1/000552.html
+userguide
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/
+utf8
+A ByteString containing UTF-8 text can be decoded into a Text with Data.Text.Encoding.decodeUtf8 (see package 'text'), and decoded into a String with Data.ByteString.UTF8.toString (see package 'utf8-string').
+uuag
+http://www.cs.uu.nl/wiki/HUT/AttributeGrammarSystem
+uy
+http://es.wikipedia.org/wiki/Uruguay
+vacuum
+http://moonpatio.com/vacuum/
+video
+http://haskell.org/haskellwiki/Video_presentations
+vimperator
+http://vimperator.mozdev.org/
+vincenz
+http://www.esat.kuleuven.ac.be/~cpoucet/
+virtuahac
+http://www.haskell.org/haskellwiki/VirtuaHac
+visualizer
+http://github.com/DanielVF/Planet-Wars-Canvas-Visualizer
+vital
+"Vital is a document-centered implementation of Haskell","The Vital project (acronym: Visual Interactive Typed Applicative Language) is investigating a /document-centered/ approach to functional programming with an emphasis on the display and /direct manipulation/ of complex data structures." (cf. spreadsheets) <http://www.cs.kent.ac.uk/projects/vital/>,<https://web.archive.org/web/20090529010107/http://www.cs.kent.ac.uk:80/projects/vital/>
+vlc
+http://www.videolan.org/
+vmware
+http://www.vmware.com/
+vty
+darcs get http://members.cox.net/stefanor/vty/
+w3m
+http://w3m.sourceforge.net/
+wadler
+http://homepages.inf.ed.ac.uk/wadler/
+wadlers_law
+http://www.cse.unsw.edu.au/~dons/haskell-1990-2006/msg00737.html
+waldo
+http://planet.haskell.org
+wash
+http://www.informatik.uni-freiburg.de/~thiemann/haskell/WASH/
+wat
+https://www.destroyallsoftware.com/talks/wat
+weak
+http://research.microsoft.com/Users/simonpj/Papers/weak.htm
+weather
+?? ?@ ?run var$intercalate " \\ " . map (\x -> "(@metar "++x++")") . words $ ?show
+web
+#haskell-web | #happs - http://happstack.com/ | #snapframework - http://snapframework.com/ | #yesod - http://yesodweb.com/
+web-frameworks
+http://softwaresimply.blogspot.de/2012/04/hopefully-fair-and-useful-comparison-of.html
+when
+preflex: seen lambdabot
+where
+^^^^^^
+why-learn-haskell
+http://ugcs.net/~keegan/talks/why-learn-haskell/talk.pdf
+whycourse
+http://bitemyapp.com/posts/2014-12-31-functional-education.html
+whyfp
+"Why Functional Programming Matters" by John Hughes in 1984 at <http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html>
+wikibook
+http://en.wikibooks.org/wiki/Haskell
+winhaskell
+http://www-users.cs.york.ac.uk/~ndm/projects/winhaskell.php
+winhugs
+http://www.cs.york.ac.uk/~ndm/projects/winhugs.php
+wiwik
+http://dev.stephendiehl.com/hask/
+wiwikwlh
+http://dev.stephendiehl.com/hask/
+wolf
+AROOOOOO!
+wrong
+http://adrinael.net/wrong.jpg
+wtfmonad
+http://memegenerator.net/instance/7710889
+wtfpl
+http://sam.zoy.org/wtfpl/
+www.letoverlambda.com
+
+wxfruit
+http://zoo.cs.yale.edu/classes/cs490/03-04b/bartholomew.robinson/
+wxhaskell
+http://wxhaskell.sourceforge.net/
+wyah
+"Write You a Haskell" (unfinished) by Stephen Diehl in 2015- at <http://dev.stephendiehl.com/fun/>
+x11
+http://hackage.haskell.org/cgi-bin/hackage-scripts/package/X11
+x11-darcs
+http://darcs.haskell.org/packages/X11/
+x11-dev
+darcs get http://darcs.haskell.org/X11
+x11-extras
+http://darcs.haskell.org/~sjanssen/X11-extras
+x11-unstable
+darcs get http://darcs.haskell.org/X11
+xcode
+http://www.hoovy.org/HaskellXcodePlugin/
+xhtml
+http://www.cs.chalmers.se/~bringert/darcs/haskell-xhtml
+xkb
+http://www.charvolant.org/~doug/xkb/html/index.html
+xm
+darcs get http://code.haskell.org/xmonad
+xmc
+darcs get http://code.haskell.org/XMonadContrib
+xmobar
+http://code.haskell.org/~arossato/xmobar/
+xmonad
+#xmonad | http://xmonad.org/
+xmonad-0.9-jaunty
+https://launchpad.net/~gspreemann/+archive/haskell
+xmonad-0.9-ubuntu
+[karmic] http://www.haskell.org/pipermail/xmonad/2009-November/009060.html | [older ubuntu releases] https://launchpad.net/~gspreemann/+archive/haskell
+xmonad-bugs
+http://code.google.com/p/xmonad/issues/list
+xmonad-changelog
+http://www.haskell.org/haskellwiki/Xmonad/Notable_changes_since_0.8
+xmonad-contrib
+http://xmonad.org/xmonad-docs/xmonad-contrib/
+xmonad-darcs
+http://darcs.haskell.org/~sjanssen/xmonad/
+xmonad-design
+http://haskell.org/haskellwiki/Xmonad/Guided_tour_of_the_xmonad_source
+xmonad-faq
+http://haskell.org/haskellwiki/Xmonad/Frequently_asked_questions
+xmonad-light
+http://code.haskell.org/~shepheb/xmonad-light/
+xmonad-lite
+http://code.haskell.org/~shepheb/xmonad-light/
+xmonad-log-applet
+http://uhsure.com/xmonad-log-applet.html
+xmonad-ops
+sjanssen dons mauke byorgey aavogt shepheb Gwern dmwit
+xmonadcontrib
+http://darcs.haskell.org/~sjanssen/XMonadContrib/
+xmonadlight
+http://code.haskell.org/~shepheb/xmonad-light/
+xu
+http://www.cl.cam.ac.uk/~nx200/
+xy
+http://xyproblem.info/
+xyproblem
+xyproblem.info
+y
+\f -> (\x -> f (outR x x)) (InR (\x -> f (outR x x)))
+y'
+\f -> (\x -> outR x x) (InR (\x -> f (outR x x)))
+yagni
+http://c2.com/xp/YouArentGonnaNeedIt.html
+yaht
+"Yet Another Haskell Tutorial", Hal Daume III,<http://www.cs.utah.edu/~hal/htut/>,<http://en.wikibooks.org/wiki/Haskell/YAHT>,<http://hal3.name/docs/daume02yaht.p(df|s)>,<http://darcs.haskell.org/yaht/yaht.p(df|s)>
+yaht-web
+http://en.wikibooks.org/wiki/Haskell/YAHT
+yalehaskell
+Yale Haskell, implemented in Lisp, at <http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/syntax/haskell/0.html>,<http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/syntax/haskell/src_205.tgz>,<http://groups.google.com/group/comp.lang.functional/msg/5b929ac0223a6212?dmode=source&hl=en>
+yampa
+http://www.haskell.org/yampa/
+yamt
+http://mvanier.livejournal.com/3917.html
+ychim
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
+years
+"Teach Yourself Programming in Ten Years" at <http://norvig.com/21-days.html> by Peter Norvig
+yesod
+Web Framework - #yesod - <http://yesodweb.com/>,<http://www.yesodweb.com/page/quickstart>,<http://www.yesodweb.com/book>
+yhc
+http://www.cs.york.ac.uk/~ndm/yhc
+yi
+http://www.haskell.org/haskellwiki/Yi
+yi+gtk
+http://www.cse.unsw.edu.au/~dons/code/yi+gtk
+yorgey
+http://www.seas.upenn.edu/~cis194/lectures.html
+you
+I'm right here, silly.
+you_could_have_invented_monads
+http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
+zalgo
+import System.Random;main=mapM_((>>(י=<<randomRIO('̀','ͯ'))).י)=<<getContents;י=putChar
+zamt
+The Dead Simple, No Chit Chat, Zero-Analogy Haskell Monad Tutorial: http://unknownparallel.com/monads.php
+zap
+?where zap
+zen-koans
+"The Gateless Gate/Barrier" by Ekai (called Mumon) in early 1200s century at <http://www.ibiblio.org/zen/cgi-bin/koan-index.pl>,"Blue Cliff Record","Entangling Vines","Collection of Wings of the Blackbird"
+zen-tales
+"Tales of Zen Master Greg" (in 2001 ??) at <https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/>
+zipper
+http://www.haskell.org/haskellwiki/Zipper
+zlib
+http://code.haskell.org/zlib/
+zmachine
+http://naesten.mooo.com:8080/repos/ZMachine
+zombies
+Braaaaaaiiiiinnnnsss!
+zzo38
+is Canadian, eh
+ﬃ
+http://www.haskell.org/onlinereport/haskell2010/haskellch8.html
