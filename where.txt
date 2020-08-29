@@ -27,7 +27,7 @@ http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
 <http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/>,<http://math.andrej.com/2008/11/21/a-haskell-monad-for-infinite-search-in-finite-time/>
 
 ?
-Some useful @where queries: ? paste cabalstackhelp
+Some useful @where queries: ? | paste, pastecabalstack | doc, zerotohero, htac | stack, cabal, ghcup
 ?where
 
 @where
@@ -223,7 +223,7 @@ c/c++
 c2hs
 http://www.cse.unsw.edu.au/~chak/haskell/c2hs/
 cabal
-http://www.haskell.org/cabal
+Flexible haskell build tool for all platforms: http://www.haskell.org/cabal
 cabal-and-stack
 https://www.reddit.com/r/haskell/comments/egc8d0/a_few_haskell_highlights_of_2019/fcjr4tv/
 cabal-cabal
@@ -241,7 +241,7 @@ https://hackage.haskell.org/package/cabal-plan
 cabal-test
 http://darcs.haskell.org/~lemmih/cabal-test
 cabalstackhelp
-Help us help you: at https://gist.github.com, https://hastebin.com or https://termbin.com please paste your failing command, the full output, and your .cabal, package.yaml and/or stack.yaml files
+
 cairo
 http://haskell.org/gtk2hs/
 calcfp
@@ -428,6 +428,10 @@ do
 The rules of do notation: http://www.haskell.org/onlinereport/haskell2010/haskellch3.html#x8-480003.14 (Note that "do { v <- m; ... }" is the same as "m >>= \v -> do { ... }" when v is a variable, rather than a more complex pattern.)
 do-notation
 http://book.realworldhaskell.org/read/monads.html#monads.do
+doc
+Doc starting points: https://www.haskell.org/documentation https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell
+doczerotohero
+
 doesn't
 What do you mean by "doesn't work"? it's unemployed? compile error? no effect? random effect? rocks fall, everyone dies?
 doha
@@ -679,7 +683,7 @@ https://github.com/gtache/intellij-lsp/issues/125
 ghcide-tips
 
 ghcup
-https://www.haskell.org/ghcup/
+GHC/cabal installer for unix platforms: https://www.haskell.org/ghcup
 ginsu
 http://repetae.net/john/computer/ginsu/
 gitbook
@@ -1543,9 +1547,11 @@ http://paste.lisp.org/new/haskell.hr
 paste2
 https://bpa.st/
 paste3
-https://paste.debian.net/
+tomsmeding's proof that programming > discussing: https://paste.tomsmeding.com/
 pastebin
 http://rafb.net/paste
+pastecabalstack
+Help us help you: at https://gist.github.com, https://hastebin.com or https://termbin.com please paste your failing command, the full output, and your .cabal, package.yaml and/or stack.yaml files
 pattern
 guard http://www.haskell.org/haskellwiki/Pattern_guard
 pattern-guard
@@ -1936,6 +1942,8 @@ spoj
 http://www.spoj.pl/
 src
 The fixed database for the `src' lambdabot command is at <https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source>
+stack
+All-in-one haskell installer/reproducible build tool for all platforms: https://www.fpcomplete.com/haskell/get-started
 stack-tutorial
 https://www.youtube.com/watch?v=sRonIB8ZStw
 stacktrace
@@ -2326,6 +2334,8 @@ zen-koans
 "The Gateless Gate/Barrier" by Ekai (called Mumon) in early 1200s century at <http://www.ibiblio.org/zen/cgi-bin/koan-index.pl>,"Blue Cliff Record","Entangling Vines","Collection of Wings of the Blackbird"
 zen-tales
 "Tales of Zen Master Greg" (in 2001 ??) at <https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/>
+zerotohero
+jargon-free language intro: https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html
 zipper
 http://www.haskell.org/haskellwiki/Zipper
 zlib
