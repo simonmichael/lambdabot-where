@@ -11,10 +11,11 @@ tab-separated-value format.
 
 Committing the db here periodically gives it more permanence and
 visibility, allowing us to maintain and use it more effectively.
-Note this is a read-only mirror; changes to the db can be made in IRC
-using the `@where+` command.
+This is a read-only mirror; changes to the db can be made in IRC
+using the `@where+` command. (Tip: query with `@where` first to
+avoid collisions.)
 
-Note, if you're an IRC user who prefers to think of @where as an
-infinite box of surprises, perhaps avoid reading this db snapshot.
+If you're an IRC user who prefers to think of @where as an infinite
+box of surprises, perhaps avoid reading this db snapshot.
 
 [lambdabot]: https://wiki.haskell.org/IRC_channel#lambdabot
