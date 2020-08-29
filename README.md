@@ -14,4 +14,7 @@ visibility, allowing us to maintain and use it more effectively.
 Note this is a read-only mirror; changes to the db can be made in IRC
 using the `@where+` command.
 
+Note, if you're an IRC user who prefers to think of @where as an
+infinite box of surprises, perhaps avoid reading this db snapshot.
+
 [lambdabot]: https://wiki.haskell.org/IRC_channel#lambdabot
