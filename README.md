@@ -7,9 +7,11 @@ to FAQs, to provide support more efficiently and reduce noise.
 
 Running "make" in this repo fetches the latest @where db, kindly
 provided by lambdabot's operator int-e, and converts it to
-tab-separated-value format.
+tab-separated-value format. 
 
 Committing the db here periodically gives it more permanence and
 visibility, allowing us to maintain and use it more effectively.
+Note this is a read-only mirror; changes to the db can be made in IRC
+using the `@where+` command.
 
 [lambdabot]: https://wiki.haskell.org/IRC_channel#lambdabot
