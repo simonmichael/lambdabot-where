@@ -37,7 +37,7 @@ http://arcanux.org/lambdacats.html
 _|_
 http://www.haskell.org/haskellwiki/Bottom
 aaaa
-Ã Ã Ã Ã test
+    test
 aam
 http://www.haskell.org/haskellwiki/All_About_Monads
 acc
@@ -1062,7 +1062,7 @@ hxt
 http://www.fh-wedel.de/~si/HXmlToolbox/
 hxweb
 http://darcs.haskell.org/~lemmih/hxweb
-hã¶nan_agda
+hnan_agda
 "HÃ¶nan Agda" ("Agda the Chicken") by singer-songwriter,poet Cornelis Vreeswijk at <https://www.youtube.com/watch?v=zPY42kkRADc>
 i
 You're right here with me. Where else?
@@ -1457,7 +1457,7 @@ darcs.haskell.org/numericprelude/
 nymphaea
 http://haskell.galois.com/~paolo/nymphaea
 o'haskell
-extension to Haskell adding subtyping and records, plus non-blocking reactive communication, by Johan Nordlander, Magnus Carlsson, and Björn von Sydow, at <http://web.archive.org/web/20090517021445/http://www.cs.chalmers.se/~nordland/ohaskell/>, also see `Timber'
+extension to Haskell adding subtyping and records, plus non-blocking reactive communication, by Johan Nordlander, Magnus Carlsson, and Bjrn von Sydow, at <http://web.archive.org/web/20090517021445/http://www.cs.chalmers.se/~nordland/ohaskell/>, also see `Timber'
 oaao
 https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/LitOrn.pdf
 object-closure-koan
@@ -1631,7 +1631,7 @@ polytypic
 polyvariadic
 http://okmij.org/ftp/Haskell/types.html#polyvar-fn
 pondoc
-10° 43' 0" North, 125° 0' 0" East
+10 43' 0" North, 125 0' 0" East
 ports
 http://www.cse.unsw.edu.au/~chak/haskell/ports/
 power.of.pi
@@ -2059,7 +2059,7 @@ https://github.com/bitemyapp/learnhaskell
 to-start
 https://github.com/bitemyapp/learnhaskell
 topology
-"topology in Haskell" <http://www.haskell.org/pipermail/haskell/2004-June/014134.html> and "Synthetic topology of data types and classical spaces" <http://www.cs.bham.ac.uk/~mhe/papers/entcs87.(pdf|dvi|ps)> by Martín Escardó
+"topology in Haskell" <http://www.haskell.org/pipermail/haskell/2004-June/014134.html> and "Synthetic topology of data types and classical spaces" <http://www.cs.bham.ac.uk/~mhe/papers/entcs87.(pdf|dvi|ps)> by Martn Escard
 tourofprelude
 http://ww2.cs.mu.oz.au/172/Haskell/tourofprelude.html
 trac
