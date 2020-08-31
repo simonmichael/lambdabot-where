@@ -1,9 +1,5 @@
-!
-
 "
 ?? (?quote) \ (?quote)
-"abstract
-
 "implementing
 Lazy Functional Languages on Stock Hardware: The Spineless Tagless G-machine", Simon Peyton Jones: http://research.microsoft.com/apps/pubs/default.aspx?id=67083
 "parallel
@@ -12,8 +8,6 @@ and Concurrent Programming in Haskell 1.1" http://community.haskell.org/~simonma
 Right here, silly!
 #haskell
 Right here, silly!
-(->)
-
 -xc
 http://www.haskell.org/ghc/docs/latest/html/users_guide/runtime-control.html#rts-options-debugging
 /me
@@ -24,14 +18,8 @@ http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes
 "Teach Yourself Programming .." by Peter Norvig at <https://www.norvig.com/21-days.html>
 99
 http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
-<http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/>,<http://math.andrej.com/2008/11/21/a-haskell-monad-for-infinite-search-in-finite-time/>
-
 ?
 Some useful @where queries: ? | paste, pastecabalstack | doc, zerotohero, htac | stack, cabal, ghcup
-?where
-
-@where
-
 \cats
 http://arcanux.org/lambdacats.html
 _|_
@@ -116,8 +104,6 @@ arch-ld-bug
 https://bugs.archlinux.org/task/54561
 are-you
 AI'M IN UR #HAKSELL SERVIN UR DOODZ
-ari
-
 arrows
 http://www.haskell.org/arrows/
 ask
@@ -180,8 +166,6 @@ boegel
 http://kejo.be/ELIS/haskell-blahSouthPark.html
 bogus_people
 ion Twey
-boo
-
 book
 http://haskellbook.com/
 book-acronyms
@@ -190,10 +174,6 @@ books
 See `LYAH',`RWH',`YAHT',`SOE',`HR',`PIH',`wikibook',`PCPH',`HPFFP',`HTAC',`TwT',`FoP',`PFAD',`WYAH',`non-haskell-books'
 boolean-blindness
 http://existentialtype.wordpress.com/2011/03/15/boolean-blindness/
-botdeath
-
-botlife
-
 brutal
 http://book.realworldhaskell.org/
 buddha
@@ -240,8 +220,6 @@ cabal-plan
 https://hackage.haskell.org/package/cabal-plan
 cabal-test
 http://darcs.haskell.org/~lemmih/cabal-test
-cabalstackhelp
-
 cairo
 http://haskell.org/gtk2hs/
 calcfp
@@ -392,8 +370,6 @@ darcsweb
 http://users.auriga.wearlab.de/~alb/darcsweb/
 data.list.split
 http://hackage.haskell.org/packages/archive/split/latest/doc/html/Data-List-Split.html
-data.monoid.ap
-
 data61
 Data61 Functional Programming Course <https://github.com/data61/fp-course>,<https://qfpl.io/links/2017-october-fp-course/> by Tony Morris,Mark Hibberd. Also see the channel #qfpl
 ddc
@@ -430,8 +406,6 @@ do-notation
 http://book.realworldhaskell.org/read/monads.html#monads.do
 doc
 Doc starting points: https://www.haskell.org/documentation https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell
-doczerotohero
-
 doesn't
 What do you mean by "doesn't work"? it's unemployed? compile error? no effect? random effect? rocks fall, everyone dies?
 doha
@@ -680,8 +654,6 @@ ghcide-emacs
 https://www.reddit.com/r/haskell/comments/dwkehu/thoughts_on_hie/f7nj2e1/
 ghcide-intellij
 https://github.com/gtache/intellij-lsp/issues/125
-ghcide-tips
-
 ghcup
 GHC/cabal installer for unix platforms: https://www.haskell.org/ghcup
 ginsu
@@ -692,8 +664,6 @@ github
 http://github.com
 glasgow-haskell-users
 http://www.haskell.org/pipermail/glasgow-haskell-users/
-gmail
-
 goa
 http://haskell.org/haskellwiki/GHC/GHCi#GHCi_on_Acid
 gofer
@@ -702,8 +672,6 @@ goodbot
 Among sm[m]'s favourites: https://limnoria.net
 googl
 http://www.google.com
-google
-
 googledns
 8.8.8.8 and 8.8.4.4
 grin
@@ -1040,18 +1008,6 @@ htf
 http://www.stefanwehr.de/darcs/HTF
 http
 http://www.haskell.org/http/
-http://ai-contest.com/rankings.php
-
-http://github.com/jaspervdj/blazehtml
-
-http://hope.bringert.net/
-
-http://purelytheoretical.com/sywtltt.html
-
-http://www-users.cs.york.ac.uk/~ndm/projects/hat.php
-
-http://www.cse.unsw.edu.au/~dons/fps.html
-
 hugs
 http://haskell.org/hugs
 humor
@@ -1452,8 +1408,6 @@ nodatatypecontexts
 http://www.haskell.org/pipermail/haskell/2011-January/022497.html
 non-haskell-books
 `SICP',`CTM',`TaPL',`AtTaPL',`APLD',`PLAI',`TAOCP',`SF',`CPDT',`TTFP',`PFPL',`SICM',`TTT',`EOPL',`AIMA',`PAIP',`AoP',`PLFA',`CTfP',`book-acronyms'
-norway
-
 notable
 http://www.haskell.org/haskellwiki/Xmonad/Notable_changes_since_0.8
 numericprelude
@@ -1536,8 +1490,10 @@ parsek
 http://www.cs.chalmers.se/Cs/Research/Functional/MultiLib/koen/Parsek.hs
 parsing
 http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-044.pdf
+partialcredit
+https://i.pinimg.com/originals/14/f7/1a/14f71aa17a7ab289b3603e2a7272279d.jpg
 paste
-Help us help you: at https://hastebin.com please paste full code, input, and output.
+Help us help you: please paste full code, input, and output at https://hastebin.com or https://paste.tomsmeding.com
 paste-hr
 http://paste.lisp.org/new/haskell.hr
 paste-rafb
@@ -1551,7 +1507,7 @@ tomsmeding's proof that programming > discussing: https://paste.tomsmeding.com/
 pastebin
 http://rafb.net/paste
 pastecabalstack
-Help us help you: at https://gist.github.com, https://hastebin.com or https://termbin.com please paste your failing command, the full output, and your .cabal, package.yaml and/or stack.yaml files
+Help us help you: at https://gist.github.com, https://paste.tomsmeding.com or https://termbin.com, please paste your failing command, full output, and .cabal, package.yaml and/or stack.yaml files
 pattern
 guard http://www.haskell.org/haskellwiki/Pattern_guard
 pattern-guard
@@ -1600,8 +1556,6 @@ pipes
 http://hackage.haskell.org/package/pipes
 pivotal
 http://www.cs.kent.ac.uk/projects/pivotal
-pjdelport
-
 plai
 http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/
 planet
@@ -1736,8 +1690,6 @@ rationalize
 @let rationalize :: (Double, Double) -> Rational; rationalize (a,b) | b <= 0 = -rationalize(-b,-a) | a < 0 = 0 | b <= 1 = 1/rationalize(1/b,1/abs a) | let a'::RealFrac x=>x;a'=max 1(fromInteger (floor a))=a' + rationalize (a-a',b-a')
 rbr
 http://malde.org/~ketil/
-read
-
 reading-list
 http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html
 readmaybe
@@ -1830,8 +1782,6 @@ scopedtypevariables
 https://wiki.haskell.org/ScopedTypeVariables (remember to add "forall")
 sec
 http://conal.net/blog/posts/semantic-editor-combinators/
-see
-
 select
 select [] = []; select (x:xs) = (x,xs) : (map.fmap) (x:) (select xs)
 seq-laws
@@ -1898,8 +1848,6 @@ ski-keys1
 book-acronyms,L.hs,src,existential-antipattern,on-functors,C/C++,eqproof,boolean-blindness,incremental-parameter-antipattern,antipatterns,blag,COBOL-install,trusting-trust,SafeHaskell,adaptive,incremental,fast-and-loose,monoids,algebraic-blindness,blindnesses,Vital,Backus,liberated,type-intersection,seq-laws,expressive-power,polymorphic-type-inference,on-understanding,on-understanding-revisited,applicative-vs-monadic
 ski-keys2
 logitext,eternalflame,PLFA,free-monoids,koans,haskell-koans,fp-koans,ai-koans,unix-koans,object-closure-koan,zen-koans,zen-tales,programming-tao,TAOCP,loginataka,(gateless-gate),programmers-stone,reciprocality,thwap,prerequisite,referential-transparency,uday-reddy-on-referential-transparency,CTfP,lets-lens,TwT,lazy,MTSS,monad-tutorials
-ski-keys2,generics,syb-papers,compos,uniplate,multiplate,plated,stratego,strafunski,recursion-schemes,polytypic,generichaskell
-
 ski-links
 <https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/>,<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>
 ski-papers
@@ -2028,16 +1976,12 @@ test-scary
 I know nothing about test-scary.
 test-where
 @where
-test2
-
 test3
 I know nothing about test3!!!!!!!!!!!!
 textregexlazy
 http://sourceforge.net/projects/lazy-regex
 th
 http://www.haskell.org/th
-the
-
 thebuffaloroam
 And the skies are not cloudy all day.
 thenbindordo
@@ -2074,8 +2018,6 @@ trac
 http://hackage.haskell.org/trac/ghc/newticket?type=bug
 trebla
 http://www.vex.net/~trebla/
-troll
-
 tronche
 http://tronche.com/gui/x/xlib/
 trusting-trust
@@ -2102,8 +2044,6 @@ twodozen
 http://www.cs.lth.se/EDA120/TwoDozenLessons/
 twt
 "Thinking with Types: Type-Level Programming in Haskell" by Sandy Maguire in 2019-01-10 at <https://leanpub.com/thinking-with-types>
-type
-
 type-intersection
 Euler diagram of intersections between "Proponents of static typing","Propoents of dynamic typing","People familiar with type theory" by Roman Cheplyaka,Maria Kovalyovain 2012-11-05 at <https://ro-che.info/ccc/17>
 type-level-lambda-calculus
@@ -2224,8 +2164,6 @@ wtfmonad
 http://memegenerator.net/instance/7710889
 wtfpl
 http://sam.zoy.org/wtfpl/
-www.letoverlambda.com
-
 wxfruit
 http://zoo.cs.yale.edu/classes/cs490/03-04b/bartholomew.robinson/
 wxhaskell
@@ -2335,7 +2273,7 @@ zen-koans
 zen-tales
 "Tales of Zen Master Greg" (in 2001 ??) at <https://web.archive.org/web/20010620042352/http://www.guild.uwa.edu.au/users/greg/>
 zerotohero
-jargon-free language intro: https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html
+Jargon-free language intro: https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html
 zipper
 http://www.haskell.org/haskellwiki/Zipper
 zlib
