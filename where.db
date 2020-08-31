@@ -1,7 +1,3 @@
-"implementing
-Lazy Functional Languages on Stock Hardware: The Spineless Tagless G-machine", Simon Peyton Jones: http://research.microsoft.com/apps/pubs/default.aspx?id=67083
-"parallel
-and Concurrent Programming in Haskell 1.1" http://community.haskell.org/~simonmar/par-tutorial.pdf
 #esoteric
 Right here, silly!
 #haskell
@@ -1702,8 +1698,6 @@ recursion
 ?where recursion
 recursion-schemes
 <https://hackage.haskell.org/package/recursion-schemes>. Also see "Functional Programming with Bananas, Lenses, and Barbed Wire" by Erik Meijer,Maarten Fokkinga,Ross Paterson in 1991 at <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125>,`AoP'
-redacted
-██████████
 reduceron
 http://www.cs.york.ac.uk/fp/reduceron/
 referential-transparency
