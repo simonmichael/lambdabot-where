@@ -10,4 +10,4 @@ where.txt: where.db
 	-iconv -c $< >$@
 
 where.tsv: where.txt
-	paste -s -d '\t\n' $< >$@
+	(printf "key\tvalue (note that double quotes have been replaced by “ and ” to work around a TSV parsing issue on github)\n"; <$< sed -re 's="([^"]*)"=“\1”=g' -e 's="=“=' | paste -s -d '\t\n') >$@
