@@ -126,6 +126,8 @@ bark
 http://urchin.earth.li/darcs/ian/bts/
 base
 http://darcs.haskell.org/packages/base/
+beginner-books
+See `PIH', `TFwH', `HPFFP`
 beginners
 http://haskell.org/mailman/listinfo/beginners
 being.lazy.with.class
@@ -163,9 +165,11 @@ http://haskellbook.com/
 book-acronyms
 mbishop's "List of popular programming book acronyms" at <http://web.archive.org/web/20080918051833/http://mbishop.esoteriq.org/stuff/books.txt>
 books
-See `LYAH',`RWH',`YAHT',`SOE',`HR',`PIH',`wikibook',`PCPH',`HPFFP',`HTAC',`TwT',`FoP',`PFAD',`WYAH',`non-haskell-books'
+https://www.extrema.is/articles/haskell-books http://www.vex.net/~trebla/haskell/learn-sources.html, see also @where LYAH, RWH, YAHT, HFTVB, SOE, HR, PIH, TFwH, wikibook, PCPH, HPFFP, HTAC, TwT, FoP, PFAD, WYAH, non-haskell-books
 boolean-blindness
 http://existentialtype.wordpress.com/2011/03/15/boolean-blindness/
+boot-libs-versions
+<https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/libraries/version-history>
 brutal
 http://book.realworldhaskell.org/
 buddha
@@ -210,6 +214,8 @@ cabal-install
 http://hackage.haskell.org/trac/hackage/wiki/CabalInstall
 cabal-plan
 https://hackage.haskell.org/package/cabal-plan
+cabal-stack-disambiguation
+"The Cabal/Stack Disambiguation Guide" at <https://gist.github.com/merijn/8152d561fb8b011f9313c48d876ceb07> by Merijn
 cabal-test
 http://darcs.haskell.org/~lemmih/cabal-test
 cairo
@@ -398,6 +404,8 @@ do-notation
 http://book.realworldhaskell.org/read/monads.html#monads.do
 doc
 Doc starting points: https://www.haskell.org/documentation https://www.fpcomplete.com/haskell/learn https://wiki.haskell.org https://en.wikibooks.org/wiki/Haskell
+docs
+https://www.haskell.org/documentation/
 doesn't
 What do you mean by "doesn't work"? it's unemployed? compile error? no effect? random effect? rocks fall, everyone dies?
 doha
@@ -528,6 +536,8 @@ fastcgi
 http://www.cs.chalmers.se/~bringert/darcs/haskell-fastcgi/doc/
 fc
 http://www.cse.unsw.edu.au/~chak/project/fc/
+fdaa
+Functional Design and Architecture, https://leanpub.com/functional-design-and-architecture
 ferus
 "Ferus is currently sucking my dick. Try again later."
 ffi
@@ -632,6 +642,8 @@ ghc
 http://haskell.org/ghc
 ghc-api
 http://www.haskell.org/ghc/
+ghc-base
+https://wiki.haskell.org/Base_package
 ghc-bugs
 http://www.haskell.org/ghc/reportabug
 ghc-src
@@ -784,6 +796,8 @@ haskell-exts
 http://hackage.haskell.org/trac/haskell-prime/wiki/HaskellExtensions
 haskell-for-mathematicians
 http://sigfpe.blogspot.com/2006/01/eleven-reasons-to-use-haskell-as.html
+haskell-for-readers
+http://haskell-for-readers.nomeata.de
 haskell-koans
 <http://haskell.org/haskellwiki/Koans> -- in another sense, see <https://github.com/hskoans/hskoans>
 haskell-mode
@@ -800,6 +814,8 @@ haskell-search
 http://tinyurl.com/y5kvdq
 haskell-starter
 http://github.com/jaspervdj/planet-wars-haskell
+haskell-via-sokoban
+https://haskell-via-sokoban.nomeata.de
 haskell.vim
 http://urchin.earth.li/~ian/vim/haskell.vim
 haskell2010
@@ -878,6 +894,8 @@ hexham
 Hexham is in Northumblingaroundland
 hfaafb
 Tampa, FL
+hftvb
+https://www.extrema.is/articles/haskell-books/haskell-from-the-very-beginning
 hgl
 http://haskell.org/graphics/index.html
 hhl
@@ -921,7 +939,7 @@ http://www.annodex.net/~conrad/software/hogg/
 hood
 www.haskell.org/hood/
 hoogle
-http://haskell.org/hoogle http://hoogle.haskell.org http://fpcomplete.com/hoogle – See also Hayoo, which searches more packages: http://hayoo.fh-wedel.de/
+https://hoogle.haskell.org
 hop
 http://www.macs.hw.ac.uk/~sebc/hOp/
 hope
@@ -1082,6 +1100,8 @@ iospec
 http://www.cs.nott.ac.uk/~wss/repos/IOSpec/
 iotut
 https://www.vex.net/~trebla/haskell/IO.xhtml
+ircbrowse
+https://ircbrowse.tomsmeding.com
 irulan
 http://www.doc.ic.ac.uk/~tora/irulan/
 issues
@@ -1097,7 +1117,7 @@ The J Programming language: http://www.jsoftware.com
 jgct
 http://haskell.org/haskellwiki/Xmonad/Config_archive/John_Goerzen%27s_Configuration
 jhc
-http://repetae.net/john/computer/jhc/
+<http://repetae.net/john/computer/jhc/>,<https://github.com/jimcrayne/jhc>,<http://repetae.net/computer/jhc/jhc.shtml#the-story-of-jhc>
 jmcarthur
 http://ai-contest.com/profile.php?user_id=3888
 joc
@@ -1112,6 +1132,8 @@ justask
 Just ask your question. If somebody knows, they'll answer. If not, they won't, and you'll wait around; it will be no worse than having nobody who wants to claim expertise.
 jvm-bridge
 http://sourceforge.net/projects/jvm-bridge/
+kde
+https://github.com/xmonad/xmonad/issues/174#issuecomment-1118020397
 keys
 Please see: @where ?
 keys.bak
@@ -1168,6 +1190,8 @@ lazyreverse
 see `sneaky2'
 learn
 https://wiki.haskell.org/Learning_Haskell
+learn-hfm
+http://learn.hfm.io
 learnhaskell
 https://wiki.haskell.org/Learning_Haskell
 learntt
@@ -1240,6 +1264,8 @@ loop
 @@ @where loop
 love
 http://en.wikipedia.org/wiki/Where_Is_Love%3F
+lowmem
+cabal/stack build ONEPKG -j1 --ghc-options='+RTS -M2G -RTS'
 lpaste
 http://lpaste.net/
 lpaste.el
@@ -1485,7 +1511,7 @@ http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-044.pdf
 partialcredit
 https://i.pinimg.com/originals/14/f7/1a/14f71aa17a7ab289b3603e2a7272279d.jpg
 paste
-Help us help you: please paste full code, input, and output at https://hastebin.com or https://paste.tomsmeding.com
+Help us help you: please paste full code, input and/or output at e.g. https://paste.tomsmeding.com
 paste-hr
 http://paste.lisp.org/new/haskell.hr
 paste-rafb
@@ -1499,7 +1525,7 @@ tomsmeding's proof that programming > discussing: https://paste.tomsmeding.com/
 pastebin
 http://rafb.net/paste
 pastecabalstack
-Help us help you: at https://gist.github.com, https://paste.tomsmeding.com or https://termbin.com, please paste your failing command, full output, and .cabal, package.yaml and/or stack.yaml files
+Help us help you: at https://paste.tomsmeding.com, https://gist.github.com or https://termbin.com, please paste your failing command, full output, and .cabal, package.yaml and/or stack.yaml files
 pattern
 guard http://www.haskell.org/haskellwiki/Pattern_guard
 pattern-guard
@@ -1514,6 +1540,8 @@ pcap
 http://www.serpentine.com/software/pcap/
 pcph
 "Parallel and Concurrent Programming in Haskell" by Simon Marlow in 2013 at <http://community.haskell.org/~simonmar/pcph/>,<http://chimera.labs.oreilly.com/books/1230000000929/>,<https://web.archive.org/web/20180117194842/http://chimera.labs.oreilly.com/books/1230000000929>,<https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/>
+pdv
+"Parse, don't validate" by lexi-lambda in 2019-11-05 at <https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/>
 pe
 http://projecteuler.net/
 performance
@@ -1810,8 +1838,6 @@ shulman
 http://home.sandiego.edu/~shulman/papers/index.html
 sicm
 http://mitpress.mit.edu/sicm/
-sicp
-"Structure and Interpretation of Computer Programs" <http://mitpress.mit.edu/sicp/>,<http://swiss.csail.mit.edu/classes/6.001/abelson-sussman-lectures/>,<https://github.com/sarabander/sicp-pdf> | "Storage and Identification of Cabalized Packages" <http://www.vex.net/~trebla/haskell/sicp.xhtml>
 sicp-cabal
 http://www.vex.net/~trebla/haskell/sicp.xhtml
 sicp.xhtml
@@ -1837,7 +1863,7 @@ ski-keys
 ski-keys1
 book-acronyms,L.hs,src,existential-antipattern,on-functors,C/C++,eqproof,boolean-blindness,incremental-parameter-antipattern,antipatterns,blag,COBOL-install,trusting-trust,SafeHaskell,adaptive,incremental,fast-and-loose,monoids,algebraic-blindness,blindnesses,Vital,Backus,liberated,type-intersection,seq-laws,expressive-power,polymorphic-type-inference,on-understanding,on-understanding-revisited,applicative-vs-monadic
 ski-keys2
-logitext,eternalflame,PLFA,free-monoids,koans,haskell-koans,fp-koans,ai-koans,unix-koans,object-closure-koan,zen-koans,zen-tales,programming-tao,TAOCP,loginataka,(gateless-gate),programmers-stone,reciprocality,thwap,prerequisite,referential-transparency,uday-reddy-on-referential-transparency,CTfP,lets-lens,TwT,lazy,MTSS,monad-tutorials
+logitext,eternalflame,PLFA,free-monoids,koans,haskell-koans,fp-koans,ai-koans,unix-koans,object-closure-koan,zen-koans,zen-tales,programming-tao,TAOCP,loginataka,(gateless-gate),programmers-stone,reciprocality,thwap,prerequisite,referential-transparency,uday-reddy-on-referential-transparency,CTfP,lets-lens,TwT,lazy,MTSS,monad-tutorials,JHC,strategic-deriving
 ski-links
 <https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/>,<http://www.medellin.unal.edu.co/~curmat/matdiscretas/doc/Epp.pdf>
 ski-papers
@@ -1870,6 +1896,8 @@ somenewkey
 I know nothing about someNewKey.
 source
 The fixed database for the `src' lambdabot command is at <https://github.com/lambdabot/lambdabot/blob/master/lambdabot/State/source>
+spaceleaks
+https://apfelmus.nfshost.com/blog/2013/08/21-space-invariants.html
 sparsecheck
 http://www-users.cs.york.ac.uk/~mfn/sparsecheck/
 species
@@ -1908,6 +1936,8 @@ stm
 http://haskell.org/haskellwiki/Software_transactional_memory | http://book.realworldhaskell.org/read/software-transactional-memory.html | http://chimera.labs.oreilly.com/books/1230000000929/ch10.html
 strafunski
 <https://wiki.haskell.org/Applications_and_libraries/Generic_programming/Strafunski>
+strategic-deriving
+"Strategic Deriving" by Veronika Romashkina,Dmitrii Kovanikov in 2020-09-21 at <https://kowainik.github.io/posts/deriving>
 stratego
 <https://blogs.msdn.microsoft.com/ralflammel/2008/09/19/strategometatheory/>,<https://userpages.uni-koblenz.de/~laemmel/isabelle2/>
 stream-fusion
@@ -1970,6 +2000,8 @@ test3
 I know nothing about test3!!!!!!!!!!!!
 textregexlazy
 http://sourceforge.net/projects/lazy-regex
+tfwh
+"Thinking Functionally with Haskell" by Richard Bird in Oct 2014 at <http://www.cs.ox.ac.uk/publications/books/functional/>
 th
 http://www.haskell.org/th
 thebuffaloroam
