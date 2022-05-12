@@ -11,3 +11,7 @@ where.txt: where.db
 
 where.tsv: where.txt
 	paste -s -d '\t\n' $< >$@
+
+commit:
+	@( git commit -m "update" -- where.tsv where.db 2>&1 | grep -E '(^\[|files? changed)' ) || echo "no changes"
+
