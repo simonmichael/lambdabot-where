@@ -209,7 +209,7 @@ http://haskell.org/haskellwiki/Cabal/FAQ
 cabal-get
 cabal-get is now cabal-install, and is in Cabal's source tree
 cabal-hell
-"Cabal hell and how to escape from it" by sm at <http://hub.darcs.net/simon/cabal-install-tutorial/browse/draft1.md#cabal-hell-and-how-to-escape-from-it-cabal-hell>
+https://hub.darcs.net/simon/cabal-install-tutorial#when-it-wont-install-cabal-hell [2013]
 cabal-install
 http://hackage.haskell.org/trac/hackage/wiki/CabalInstall
 cabal-plan
