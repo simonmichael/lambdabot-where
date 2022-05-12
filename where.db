@@ -212,6 +212,8 @@ cabal-hell
 https://hub.darcs.net/simon/cabal-install-tutorial#when-it-wont-install-cabal-hell [2013]
 cabal-install
 http://hackage.haskell.org/trac/hackage/wiki/CabalInstall
+cabal-install-v1-tut
+https://hub.darcs.net/simon/cabal-install-tutorial How to cabal install [2013, cabal v1]
 cabal-plan
 https://hackage.haskell.org/package/cabal-plan
 cabal-stack-disambiguation
